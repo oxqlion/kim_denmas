@@ -16,11 +16,10 @@ return new class extends Migration
         Schema::create('stocks', function (Blueprint $table) {
             $table->id();
             $table->timestamps();
-            $table->foreignId("umkm_id")->constrained('umkms')->cascadeOnUpdate()->cascadeOnDelete();
+            $table->integer('umkm_id');
             $table->string('tipe');
             $table->string('nama');
             $table->integer('jumlah');
-
         });
     }
 
@@ -31,6 +30,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('stocks');
+        // Schema::dropIfExists('stocks');
     }
 };
