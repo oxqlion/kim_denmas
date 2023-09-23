@@ -15,7 +15,7 @@ return new class extends Migration
     {
         Schema::create('pembukuans', function (Blueprint $table) {
            $table->id();
-            $table->string('category');
+            $table->string('category')->default('Pemasukan');
             $table->integer('umkm_id');
             $table->string('nama');
             $table->integer('harga');

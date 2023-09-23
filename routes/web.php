@@ -27,11 +27,8 @@ Route::get('/pengeluaran/{id}', [PembukuanController::class, 'getPengeluaran'])-
 
 Route::get('/stok', [StokController::class, 'getStokWithUMKM'])->name('stok');
 
-Route::get('/katalog',function(){
-    return view('katalog',[
-        'active'=>"Katalog"
-    ]);
-})->name('katalog');
+Route::post('/storeTransaction/{id}', [PembukuanController::class, 'createPembukuan'])->name('store-transaction');
+
 
 Route::get('umkm', function () {
     return view('umkm', [

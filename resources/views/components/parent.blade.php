@@ -9,6 +9,12 @@
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     {{-- <script src="{{ asset('js/app.js') }}" defer></script> --}}
+    <style>
+        main {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
 </head>
 
 <body>

@@ -11,6 +11,15 @@ class Pembukuan extends Model
 {
     use HasFactory;
 
+    protected $fillable = [
+        'umkm_id',
+        'nama',
+        'category',
+        'jumlah',
+        'harga',
+        'total'
+    ];
+
     function UMKM() {
         $this->belongsTo(UMKM::class);
     }
