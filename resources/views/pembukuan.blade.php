@@ -2,7 +2,5 @@
 
 
 @section('content')
-    <div>
-        <h1>Halooo</h1>
-    </div>
+    <h1>ksks</h1>
 @endsection

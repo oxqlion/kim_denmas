@@ -13,16 +13,10 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('pembukuans', function (Blueprint $table) {
+        Schema::create('umkms', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('umkm_id')->constrained('umkms')->cascadeOnUpdate()->cascadeOnDelete();
-            $table->string('tipe');
             $table->string('nama');
-            $table->integer('harga');
-            $table->integer('jumlah');
-            $table->integer('total');
             $table->timestamps();
-            
         });
     }
 
@@ -33,6 +27,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('pembukuans');
+        //
     }
 };

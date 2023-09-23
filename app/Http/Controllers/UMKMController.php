@@ -7,5 +7,8 @@ use Illuminate\Http\Request;
 
 class UMKMController extends Controller
 {
-    //
+    function getAllUMKM() {
+        $umkm = UMKM::all();
+        return view();
+    }
 }
