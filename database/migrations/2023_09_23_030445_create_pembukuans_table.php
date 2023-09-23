@@ -14,9 +14,9 @@ return new class extends Migration
     public function up()
     {
         Schema::create('pembukuan', function (Blueprint $table) {
-            $table->id();
+           $table->id();
+            $table->string('category');
             $table->integer('umkm_id');
-            $table->string('tipe');
             $table->string('nama');
             $table->integer('harga');
             $table->integer('jumlah');
