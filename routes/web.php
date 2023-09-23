@@ -17,8 +17,8 @@ use App\Models\Pembukuan;
 */
 
 Route::get('/', function () {
-    return view('home', [
-        'active' => "Home"
+    return view('landing', [
+        'active' => "Landing"
     ]);
 });
 Route::get('/pembukuan', [PembukuanController::class, 'getPembukuanWithUMKM'])->name('pembukuan-main');
@@ -26,6 +26,12 @@ Route::get('/pemasukan/{id}', [PembukuanController::class, 'getPemasukan'])->nam
 Route::get('/pengeluaran/{id}', [PembukuanController::class, 'getPengeluaran'])->name('get-pengeluaran');
 
 Route::get('/stok', [StokController::class, 'getStokWithUMKM'])->name('stok');
+
+Route::get('/katalog',function(){
+    return view('katalog',[
+        'active'=>"Katalog"
+    ]);
+})->name('katalog');
 
 Route::get('umkm', function () {
     return view('umkm', [
