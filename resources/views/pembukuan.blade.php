@@ -9,7 +9,7 @@
                     {{-- @php
                     var_dump($pembukuanWithUMKM);
                 @endphp --}}
-                    @foreach ($pembukuanWithUMKM as $buku)
+                    @foreach ($pembukuankWithUMKM as $buku)
                         <a href="#"
                             class="list-group-item list-group-item-action {{ $buku == 'dummy1' ? 'active' : '' }}">{{ $buku->nama }}</a>
                     @endforeach

@@ -17,7 +17,8 @@ class DatabaseSeeder extends Seeder
 
         $this->call([
             PembukuanSeeder::class,
-            UMKMSeeder::class
+            UMKMSeeder::class,
+            StokSeeder::class
         ]);
     }
 }
