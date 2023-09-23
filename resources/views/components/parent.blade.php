@@ -11,29 +11,26 @@
 </head>
 
 <body>
-    <div class="container-fluid">
-        <div class="row">
-            <nav id="sidebar" class="col-md-3 col-lg-2 d-md-block bg-light sidebar">
-                <ul class="nav flex-column">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">
-                            Dashboard
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">
-                            Posts
-                        </a>
-                    </li>
-                </ul>
-            </nav>
-
-            <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-md-4">
-                @yield('content')
-            </main>
+    <div class="card text-center">
+        <div class="card-header">
+            <ul class="nav nav-tabs card-header-tabs">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="true" href="{{ route('home') }}">aaa</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="true"  href="{{ route('pembukuan-main') }}">Link</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" aria-disabled="false">Disabled</a>
+                </li>
+            </ul>
         </div>
+
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-md-4">
+            @yield('content')
+        </main>
     </div>
-    <script src="{{ asset('js/app.js') }}"></script>
+    <script src="{{ asset('js/app.js') }}" defer></script>
 </body>
 
 </html>

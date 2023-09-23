@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Models\Pembukuan;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +17,13 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('components.parent');
 });
+
+Route::get('pembukuan', function() {
+    return view('pembukuan');
+})->name('pembukuan-main');
+
+Route::get('home', function() {
+    return view('home');
+})->name('home');
+
+
