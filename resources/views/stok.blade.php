@@ -10,7 +10,7 @@
         <div class="row">
             <div class="col m-5">
                 <div class="list-group">
-                    @foreach ($stokWithUMKM as $umkm)
+                    @foreach ($stokUmkm as $umkm)
                     <a href="#" class="list-group-item list-group-item-action {{ ($umkm->nama == "dummy1")? "active":"" }}">{{ $umkm->nama }}</a>
                     @endforeach
                     
