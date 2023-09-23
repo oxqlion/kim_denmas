@@ -1,1 +1,8 @@
+.overflow {
+    height: 85vh;
+    overflow-y: scroll;
+    margin: 2rem 0;
+    display: flex;
+}
+
 
