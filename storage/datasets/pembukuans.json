@@ -1,3226 +1,3226 @@
 [
     {
-        "tanggal": "2021-03-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-03-03T17:00:00.000Z",
         "nama": "Blazer custom",
         "kuantitas": 1,
         "harga": 380000,
-        "total": 380000,
+        "jumlah": 380000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-03-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-03-03T17:00:00.000Z",
         "nama": "kemeja custom",
         "kuantitas": 1,
         "harga": 330000,
-        "total": 330000,
+        "jumlah": 330000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-04-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-04-04T17:00:00.000Z",
         "nama": "kain/batik tulis premium motif tirta kemandank",
         "kuantitas": 1,
         "harga": 900000,
-        "total": 900000,
+        "jumlah": 380000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-04-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-04-04T17:00:00.000Z",
         "nama": "cinderalas clutch",
         "kuantitas": 1,
         "harga": 150000,
-        "total": 150000,
+        "jumlah": 150000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-04-05T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-04-05T17:00:00.000Z",
         "nama": "ecoprint",
         "kuantitas": 14,
         "harga": 240000,
-        "total": 3360000,
+        "jumlah": 3360000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-05-08T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-05-08T17:00:00.000Z",
         "nama": "long dress terpola keong mas",
         "kuantitas": 1,
         "harga": 2000000,
-        "total": 2000000,
+        "jumlah": 2000000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-05-08T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-05-08T17:00:00.000Z",
         "nama": "Kemeja terpola keongmas",
         "kuantitas": 1,
         "harga": 1000000,
-        "total": 1000000,
+        "jumlah": 1000000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-05-09T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-05-09T17:00:00.000Z",
         "nama": "batik hitam",
         "kuantitas": 2,
         "harga": 550000,
-        "total": 1100000,
+        "jumlah": 1100000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-05-09T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-05-09T17:00:00.000Z",
         "nama": "Batik peach kuda lumping",
         "kuantitas": 1,
         "harga": 500000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-05-10T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-05-10T17:00:00.000Z",
         "nama": "Sejarah batik tulis kakao",
         "kuantitas": 3,
         "harga": 120000,
-        "total": 360000,
+        "jumlah": 360000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-05-10T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-05-10T17:00:00.000Z",
         "nama": "batik tulis premium",
         "kuantitas": 1,
         "harga": 750000,
-        "total": 750000,
+        "jumlah": 750000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-05-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-05-21T17:00:00.000Z",
         "nama": "batik poleng",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-05-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-05-21T17:00:00.000Z",
         "nama": "batik tulis kuda bu",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-05-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-05-21T17:00:00.000Z",
         "nama": "batik tulis kuda toys",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-05-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-05-21T17:00:00.000Z",
         "nama": "ecoprint",
         "kuantitas": 1,
         "harga": 260000,
-        "total": 260000,
+        "jumlah": 260000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-06-08T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-06-08T17:00:00.000Z",
         "nama": "batik cap",
         "kuantitas": 2,
         "harga": 200000,
-        "total": 400000,
+        "jumlah": 400000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-06-08T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-06-08T17:00:00.000Z",
         "nama": "batik cap",
         "kuantitas": 3,
         "harga": 185000,
-        "total": 555000,
+        "jumlah": 555000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-06-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-06-12T17:00:00.000Z",
         "nama": "batik tulis motif kuda lumping",
         "kuantitas": 1,
         "harga": 380000,
-        "total": 380000,
+        "jumlah": 380000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-06-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-06-12T17:00:00.000Z",
         "nama": "batik motif kembang kluwih",
         "kuantitas": 1,
         "harga": 450000,
-        "total": 450000,
+        "jumlah": 450000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-06-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-06-12T17:00:00.000Z",
         "nama": "batik tulis topeng panji",
         "kuantitas": 1,
         "harga": 240000,
-        "total": 240000,
+        "jumlah": 240000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-07-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-07-25T17:00:00.000Z",
         "nama": "kemeja custom motif BNN",
         "kuantitas": 1,
         "harga": 380000,
-        "total": 380000,
+        "jumlah": 380000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-07-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-07-13T17:00:00.000Z",
         "nama": "batik motif tirta kamandanu",
         "kuantitas": 1,
         "harga": 950000,
-        "total": 950000,
+        "jumlah": 950000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-08-05T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-08-05T17:00:00.000Z",
         "nama": "celana bahan chinos",
         "kuantitas": 84,
         "harga": 175000,
-        "total": 14700000,
+        "jumlah": 14700000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-09-08T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-09-08T17:00:00.000Z",
         "nama": "batik tulis kuda lumping motif veronica",
         "kuantitas": 1,
         "harga": 650000,
-        "total": 650000,
+        "jumlah": 650000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-09-26T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-09-26T17:00:00.000Z",
         "nama": "batik tulis baju jadi",
         "kuantitas": 10,
         "harga": 400000,
-        "total": 4000000,
+        "jumlah": 4000000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-09-26T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-09-26T17:00:00.000Z",
         "nama": "batik tulis terpola",
         "kuantitas": 1,
         "harga": 280000,
-        "total": 280000,
+        "jumlah": 280000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-09-26T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-09-26T17:00:00.000Z",
         "nama": "kotak",
         "kuantitas": 1,
         "harga": 20000,
-        "total": 20000,
+        "jumlah": 20000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-09-27T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-09-27T17:00:00.000Z",
         "nama": "batik cap",
         "kuantitas": 5,
         "harga": 200000,
-        "total": 1000000,
+        "jumlah": 1000000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-10-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-21T17:00:00.000Z",
         "nama": "batik cap + kotak hias",
         "kuantitas": 150,
         "harga": 200000,
-        "total": 30000000,
+        "jumlah": 30000000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-10-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-21T17:00:00.000Z",
         "nama": "seragam batik panitia + jahit",
         "kuantitas": 20,
         "harga": 350000,
-        "total": 7000000,
+        "jumlah": 7000000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-10-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-21T17:00:00.000Z",
         "nama": "paket batik & clutch + kotak + papperbag",
         "kuantitas": 6,
         "harga": 400000,
-        "total": 2400000,
+        "jumlah": 2400000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-10-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-25T17:00:00.000Z",
         "nama": "batik tulis motif mawar",
         "kuantitas": 1,
         "harga": 600000,
-        "total": 600000,
+        "jumlah": 600000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-10-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-25T17:00:00.000Z",
         "nama": "kemeja kuda lumping",
         "kuantitas": 1,
         "harga": 400000,
-        "total": 400000,
+        "jumlah": 400000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-10-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-25T17:00:00.000Z",
         "nama": "kemeja tirta",
         "kuantitas": 1,
         "harga": 380000,
-        "total": 380000,
+        "jumlah": 380000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-10-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-25T17:00:00.000Z",
         "nama": "blouse tirta",
         "kuantitas": 1,
         "harga": 380000,
-        "total": 380000,
+        "jumlah": 380000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-10-29T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-29T17:00:00.000Z",
         "nama": "batik tulis motif macam kawung",
         "kuantitas": 5,
         "harga": 500000,
-        "total": 2500000,
+        "jumlah": 2500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-10-29T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-29T17:00:00.000Z",
         "nama": "batik tulis macam parang",
         "kuantitas": 5,
         "harga": 500000,
-        "total": 2500000,
+        "jumlah": 2500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-10-29T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-29T17:00:00.000Z",
         "nama": "batik tulis motif macan",
         "kuantitas": 4,
         "harga": 500000,
-        "total": 2000000,
+        "jumlah": 2000000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-10-29T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-29T17:00:00.000Z",
         "nama": "tambahan + kiriman",
         "kuantitas": 1,
         "harga": 330000,
-        "total": 330000,
+        "jumlah": 330000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-07T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-07T17:00:00.000Z",
         "nama": "dress aline",
         "kuantitas": 1,
         "harga": 200000,
-        "total": 200000,
+        "jumlah": 200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-07T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-07T17:00:00.000Z",
         "nama": "dress aline",
         "kuantitas": 1,
         "harga": 225000,
-        "total": 225000,
+        "jumlah": 225000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-07T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-07T17:00:00.000Z",
         "nama": "dress tanpa lengan",
         "kuantitas": 1,
         "harga": 150000,
-        "total": 150000,
+        "jumlah": 150000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-07T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-07T17:00:00.000Z",
         "nama": "dress pecahan",
         "kuantitas": 1,
         "harga": 250000,
-        "total": 250000,
+        "jumlah": 250000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-07T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-07T17:00:00.000Z",
         "nama": "jasa ambil dan antar",
         "kuantitas": 1,
         "harga": 60000,
-        "total": 60000,
+        "jumlah": 60000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-09T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-09T17:00:00.000Z",
         "nama": "batik tulis lorot malam motif kembang kulih",
         "kuantitas": 2,
         "harga": 750000,
-        "total": 1500000,
+        "jumlah": 1500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-09T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-09T17:00:00.000Z",
         "nama": "kotak dan hias",
         "kuantitas": 1,
         "harga": 50000,
-        "total": 50000,
+        "jumlah": 50000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-01T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-01T17:00:00.000Z",
         "nama": "batik tulis custom tulis",
         "kuantitas": 1,
         "harga": 450000,
-        "total": 450000,
+        "jumlah": 450000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-23T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-23T17:00:00.000Z",
         "nama": "batik cap motif kuda lumping",
         "kuantitas": 47,
         "harga": 180000,
-        "total": 8460000,
+        "jumlah": 8460000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-24T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-24T17:00:00.000Z",
         "nama": "batik cap kuda lumping",
         "kuantitas": 2,
         "harga": 330000,
-        "total": 660000,
+        "jumlah": 660000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-30T17:00:00.000Z",
         "nama": "batik cap sekarjagad",
         "kuantitas": 3,
         "harga": 190000,
-        "total": 570000,
+        "jumlah": 570000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-30T17:00:00.000Z",
         "nama": "batik cap motif kuda lumping",
         "kuantitas": 1,
         "harga": 180000,
-        "total": 180000,
+        "jumlah": 180000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-30T17:00:00.000Z",
         "nama": "batik cap motif kuda lumping",
         "kuantitas": 1,
         "harga": 180000,
-        "total": 180000,
+        "jumlah": 180000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-30T17:00:00.000Z",
         "nama": "batik kuda lumping motif",
         "kuantitas": 1,
         "harga": 400000,
-        "total": 400000,
+        "jumlah": 400000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-11-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-30T17:00:00.000Z",
         "nama": "batik tulis kuda lumping",
         "kuantitas": 1,
         "harga": 380000,
-        "total": 380000,
+        "jumlah": 380000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-08T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-08T17:00:00.000Z",
         "nama": "kemeja batik motif sekarjagad",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-08T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-08T17:00:00.000Z",
         "nama": "jahit seragam",
         "kuantitas": 1,
         "harga": 130000,
-        "total": 130000,
+        "jumlah": 130000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-08T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-08T17:00:00.000Z",
         "nama": "permak leher",
         "kuantitas": 1,
         "harga": 20000,
-        "total": 20000,
+        "jumlah": 20000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-14T17:00:00.000Z",
         "nama": "batik cap motif kuda lumping",
         "kuantitas": 1,
         "harga": 200000,
-        "total": 200000,
+        "jumlah": 200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-14T17:00:00.000Z",
         "nama": "jahit puring",
         "kuantitas": 1,
         "harga": 150000,
-        "total": 150000,
+        "jumlah": 150000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batif motif kuda lehi",
         "kuantitas": 1,
         "harga": 450000,
-        "total": 450000,
+        "jumlah": 450000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik cap kuda rol hitam",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik cap kuda rol hitam",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik cap kuda rul 2x proses",
         "kuantitas": 1,
         "harga": 260000,
-        "total": 260000,
+        "jumlah": 260000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik kuda param tercota seling",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik sekarjogad",
         "kuantitas": 1,
         "harga": 260000,
-        "total": 260000,
+        "jumlah": 260000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik sekarjogad merah",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik cap nyamplang",
         "kuantitas": 2,
         "harga": 230000,
-        "total": 460000,
+        "jumlah": 460000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik tulis hijau botol",
         "kuantitas": 1,
         "harga": 450000,
-        "total": 450000,
+        "jumlah": 450000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik tulis ganda",
         "kuantitas": 1,
         "harga": 500000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik gethuk pisang",
         "kuantitas": 1,
         "harga": 550000,
-        "total": 550000,
+        "jumlah": 550000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik 1x proses hitam",
         "kuantitas": 1,
         "harga": 180000,
-        "total": 180000,
+        "jumlah": 180000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik pagi sore",
         "kuantitas": 3,
         "harga": 230000,
-        "total": 690000,
+        "jumlah": 690000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "echoprint",
         "kuantitas": 1,
         "harga": 270000,
-        "total": 270000,
+        "jumlah": 270000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "kemeja motif batikjo",
         "kuantitas": 1,
         "harga": 380000,
-        "total": 380000,
+        "jumlah": 380000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik kuda lumping gambar ida",
         "kuantitas": 1,
         "harga": 450000,
-        "total": 450000,
+        "jumlah": 450000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "Batik kuda lumping biaco",
         "kuantitas": 1,
         "harga": 500000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "kuda lumping parang barong",
         "kuantitas": 1,
         "harga": 450000,
-        "total": 450000,
+        "jumlah": 450000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-21T17:00:00.000Z",
         "nama": "batik cap hitam bangsa",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-12-27T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-27T17:00:00.000Z",
         "nama": "batik custom motif kuda lmping lapis furing lengan pendek",
         "kuantitas": 14,
         "harga": 360000,
-        "total": 5040000,
+        "jumlah": 5040000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-01-16T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-01-16T17:00:00.000Z",
         "nama": "outer motif sumunaring kediri",
         "kuantitas": 1,
         "harga": 1800000,
-        "total": 1800000,
+        "jumlah": 1800000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-01-16T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-01-16T17:00:00.000Z",
         "nama": "kemeja susun motif kuda lumping",
         "kuantitas": 1,
         "harga": 450000,
-        "total": 450000,
+        "jumlah": 450000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-01-16T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-01-16T17:00:00.000Z",
         "nama": "sajadah batik tulis cap berenda",
         "kuantitas": 1,
         "harga": 150000,
-        "total": 150000,
+        "jumlah": 150000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-01-16T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-01-16T17:00:00.000Z",
         "nama": "sajadah batik tulis berenda",
         "kuantitas": 1,
         "harga": 150000,
-        "total": 150000,
+        "jumlah": 150000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-01-18T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-01-18T17:00:00.000Z",
         "nama": "baju batik kustom lapis puring motif",
         "kuantitas": 26,
         "harga": 330000,
-        "total": 8580000,
+        "jumlah": 8580000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-01-18T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-01-18T17:00:00.000Z",
         "nama": "batik tulis motif kembang kluwih",
         "kuantitas": 1,
         "harga": 750000,
-        "total": 750000,
+        "jumlah": 750000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-01-18T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-01-18T17:00:00.000Z",
         "nama": "batik tulis motif kembang melati 2x proses",
         "kuantitas": 1,
         "harga": 650000,
-        "total": 650000,
+        "jumlah": 650000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-01-19T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-01-19T17:00:00.000Z",
         "nama": "batik motif dewi kili suci",
         "kuantitas": 1,
         "harga": 750000,
-        "total": 750000,
+        "jumlah": 750000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-01-19T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-01-19T17:00:00.000Z",
         "nama": "batik isen indigo veva",
         "kuantitas": 1,
         "harga": 800000,
-        "total": 800000,
+        "jumlah": 800000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-01-19T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-01-19T17:00:00.000Z",
         "nama": "kotak baju",
         "kuantitas": 2,
         "harga": 50000,
-        "total": 100000,
+        "jumlah": 100000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-01-24T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-01-24T17:00:00.000Z",
         "nama": "batik tulis premium numansa motif turongo langing",
         "kuantitas": 1,
         "harga": 1200000,
-        "total": 1200000,
+        "jumlah": 1200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-01-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-01-21T17:00:00.000Z",
         "nama": "batik cap full coletan",
         "kuantitas": 3,
         "harga": 220000,
-        "total": 660000,
+        "jumlah": 660000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-04T17:00:00.000Z",
         "nama": "batik tulis motif tirta kamandanu",
         "kuantitas": 1,
         "harga": 1200000,
-        "total": 1200000,
+        "jumlah": 1200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-04T17:00:00.000Z",
         "nama": "batik tulis motif sekar jagat",
         "kuantitas": 1,
         "harga": 1100000,
-        "total": 1100000,
+        "jumlah": 1100000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-04T17:00:00.000Z",
         "nama": "batik tulis kuda lumping sogan",
         "kuantitas": 2,
         "harga": 650000,
-        "total": 1300000,
+        "jumlah": 1300000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-04T17:00:00.000Z",
         "nama": "batik tulis motif melati",
         "kuantitas": 1,
         "harga": 650000,
-        "total": 650000,
+        "jumlah": 650000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-04T17:00:00.000Z",
         "nama": "batik tulis daun pentris",
         "kuantitas": 1,
         "harga": 550000,
-        "total": 550000,
+        "jumlah": 550000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-04T17:00:00.000Z",
         "nama": "batik cap darmono",
         "kuantitas": 1,
         "harga": 360000,
-        "total": 360000,
+        "jumlah": 360000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-04T17:00:00.000Z",
         "nama": "batik cap kuda",
         "kuantitas": 1,
         "harga": 280000,
-        "total": 280000,
+        "jumlah": 280000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-04T17:00:00.000Z",
         "nama": "kotak",
         "kuantitas": 5,
         "harga": 50000,
-        "total": 250000,
+        "jumlah": 250000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-09T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-09T17:00:00.000Z",
         "nama": "batik tulis terpola motif",
         "kuantitas": 8,
         "harga": 250000,
-        "total": 2000000,
+        "jumlah": 2000000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-13T17:00:00.000Z",
         "nama": "furing",
         "kuantitas": 6,
         "harga": 18000,
-        "total": 108000,
+        "jumlah": 108000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-13T17:00:00.000Z",
         "nama": "tile plisket",
         "kuantitas": 4,
         "harga": 32500,
-        "total": 130000,
+        "jumlah": 130000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-13T17:00:00.000Z",
         "nama": "tile polos biasa",
         "kuantitas": 4,
         "harga": 12000,
-        "total": 48000,
+        "jumlah": 48000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-13T17:00:00.000Z",
         "nama": "paket jepang",
         "kuantitas": 2,
         "harga": 12500,
-        "total": 25000,
+        "jumlah": 25000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-13T17:00:00.000Z",
         "nama": "koko bileh",
         "kuantitas": 1,
         "harga": 100000,
-        "total": 100000,
+        "jumlah": 100000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-13T17:00:00.000Z",
         "nama": "longdress naila + pasang payet",
         "kuantitas": 1,
         "harga": 560000,
-        "total": 560000,
+        "jumlah": 560000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-06T17:00:00.000Z",
         "nama": "longdress bunda",
         "kuantitas": 1,
         "harga": 500000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-15T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-15T17:00:00.000Z",
         "nama": "bluse jayabaya agung",
         "kuantitas": 1,
         "harga": 380000,
-        "total": 380000,
+        "jumlah": 380000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik custom motif tigers",
         "kuantitas": 1,
         "harga": 800000,
-        "total": 800000,
+        "jumlah": 800000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik terpola motif kpp",
         "kuantitas": 2,
         "harga": 350000,
-        "total": 700000,
+        "jumlah": 700000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik cap full coletan",
         "kuantitas": 3,
         "harga": 230000,
-        "total": 690000,
+        "jumlah": 690000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik cap 2x proses",
         "kuantitas": 1,
         "harga": 280000,
-        "total": 280000,
+        "jumlah": 280000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik tulis kuda lumping dasar putih",
         "kuantitas": 1,
         "harga": 600000,
-        "total": 600000,
+        "jumlah": 600000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik putih terpola 1x proses",
         "kuantitas": 2,
         "harga": 300000,
-        "total": 600000,
+        "jumlah": 600000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik tulis terpola 2x proses",
         "kuantitas": 3,
         "harga": 360000,
-        "total": 1080000,
+        "jumlah": 1080000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "kotak batik",
         "kuantitas": 4,
         "harga": 50000,
-        "total": 200000,
+        "jumlah": 200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik cap warian paris",
         "kuantitas": 1,
         "harga": 290000,
-        "total": 290000,
+        "jumlah": 290000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "cluth motif cinderas",
         "kuantitas": 1,
         "harga": 250000,
-        "total": 250000,
+        "jumlah": 250000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik tulis warna alam",
         "kuantitas": 4,
         "harga": 1200000,
-        "total": 4800000,
+        "jumlah": 4800000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik cap pagi sore",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik tulis sajadah mini",
         "kuantitas": 3,
         "harga": 85000,
-        "total": 255000,
+        "jumlah": 255000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "sajadah besar batik tulis",
         "kuantitas": 2,
         "harga": 150000,
-        "total": 300000,
+        "jumlah": 300000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "tas batik tulis",
         "kuantitas": 1,
         "harga": 450000,
-        "total": 450000,
+        "jumlah": 450000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "sajadah batik",
         "kuantitas": 1,
         "harga": 150000,
-        "total": 150000,
+        "jumlah": 150000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "tas  batik 2x proses",
         "kuantitas": 1,
         "harga": 400000,
-        "total": 400000,
+        "jumlah": 400000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik kustom motif kuda lumping kuning",
         "kuantitas": 1,
         "harga": 450000,
-        "total": 450000,
+        "jumlah": 450000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-26T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-26T17:00:00.000Z",
         "nama": "batik tulis burung 2x proses",
         "kuantitas": 1,
         "harga": 750000,
-        "total": 750000,
+        "jumlah": 750000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik cap warlam",
         "kuantitas": 2,
         "harga": 360000,
-        "total": 720000,
+        "jumlah": 720000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik terpola motif kuda lumping",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik cap kerang",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik tulis terpola",
         "kuantitas": 2,
         "harga": 350000,
-        "total": 700000,
+        "jumlah": 700000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik tulis parang kuda",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "batik warlam cap aulia",
         "kuantitas": 1,
         "harga": 380000,
-        "total": 380000,
+        "jumlah": 380000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "kemeja kuda lumping putih",
         "kuantitas": 1,
         "harga": 280000,
-        "total": 280000,
+        "jumlah": 280000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-25T17:00:00.000Z",
         "nama": "tote bag keong mas",
         "kuantitas": 1,
         "harga": 500000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-27T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-27T17:00:00.000Z",
         "nama": "batik cap sekar jagat kediri",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-27T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-27T17:00:00.000Z",
         "nama": "batik tulis premium lawasan",
         "kuantitas": 1,
         "harga": 1800000,
-        "total": 1800000,
+        "jumlah": 1800000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-27T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-27T17:00:00.000Z",
         "nama": "batik tulis premium ",
         "kuantitas": 1,
         "harga": 1800000,
-        "total": 1800000,
+        "jumlah": 1800000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-27T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-27T17:00:00.000Z",
         "nama": "motif kuda lumping 2x proses",
         "kuantitas": 1,
         "harga": 1200000,
-        "total": 1200000,
+        "jumlah": 1200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-27T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-27T17:00:00.000Z",
         "nama": "atasan batik tulis motif kuda  lumping",
         "kuantitas": 1,
         "harga": 500000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-27T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-27T17:00:00.000Z",
         "nama": "batik cap coleta",
         "kuantitas": 2,
         "harga": 230000,
-        "total": 460000,
+        "jumlah": 460000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-27T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-27T17:00:00.000Z",
         "nama": "batik tulis cinderalas 2x proses",
         "kuantitas": 1,
         "harga": 750000,
-        "total": 750000,
+        "jumlah": 750000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-03-27T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-27T17:00:00.000Z",
         "nama": "batik tulis 2x proses",
         "kuantitas": 1,
         "harga": 450000,
-        "total": 450000,
+        "jumlah": 450000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-04-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-04-14T17:00:00.000Z",
         "nama": "batik tulis motif kama 2x proses",
         "kuantitas": 1,
         "harga": 750000,
-        "total": 750000,
+        "jumlah": 750000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-04-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-04-14T17:00:00.000Z",
         "nama": "batik fulis full coletan full kuda lumping",
         "kuantitas": 1,
         "harga": 600000,
-        "total": 600000,
+        "jumlah": 600000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-04-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-04-14T17:00:00.000Z",
         "nama": "sarimbit motif tirta taman danu",
         "kuantitas": 1,
         "harga": 300000,
-        "total": 300000,
+        "jumlah": 300000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-04-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-04-14T17:00:00.000Z",
         "nama": "batik cap 2x proses motif sekarjagad",
         "kuantitas": 1,
         "harga": 280000,
-        "total": 280000,
+        "jumlah": 280000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-04-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-04-14T17:00:00.000Z",
         "nama": "kotak",
         "kuantitas": 2,
         "harga": 50000,
-        "total": 100000,
+        "jumlah": 100000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-05-22T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-05-22T17:00:00.000Z",
         "nama": "sajadah cap 2x proses",
         "kuantitas": 2,
         "harga": 150000,
-        "total": 300000,
+        "jumlah": 300000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-05-23T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-05-23T17:00:00.000Z",
         "nama": "PO kemeja motif kelurahan",
         "kuantitas": 1,
         "harga": 560000,
-        "total": 560000,
+        "jumlah": 560000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-05-24T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-05-24T17:00:00.000Z",
         "nama": "totebag keong mas",
         "kuantitas": 1,
         "harga": 650000,
-        "total": 650000,
+        "jumlah": 650000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-05-24T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-05-24T17:00:00.000Z",
         "nama": "dress keong mass",
         "kuantitas": 1,
         "harga": 2750000,
-        "total": 2750000,
+        "jumlah": 2750000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-05-24T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-05-24T17:00:00.000Z",
         "nama": "kemeja keong mass",
         "kuantitas": 1,
         "harga": 2000000,
-        "total": 2000000,
+        "jumlah": 2000000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-05-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-05-30T17:00:00.000Z",
         "nama": "outer batik tulis motif tirta taman danu",
         "kuantitas": 1,
         "harga": 1500000,
-        "total": 1500000,
+        "jumlah": 1500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-03T17:00:00.000Z",
         "nama": "kemeja cewe tempel kuda lumping",
         "kuantitas": 1,
         "harga": 280000,
-        "total": 280000,
+        "jumlah": 280000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-06T17:00:00.000Z",
         "nama": "ecoprint",
         "kuantitas": 1,
         "harga": 280000,
-        "total": 280000,
+        "jumlah": 280000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-06T17:00:00.000Z",
         "nama": "batik cap kuda lumping",
         "kuantitas": 1,
         "harga": 280000,
-        "total": 280000,
+        "jumlah": 280000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-06T17:00:00.000Z",
         "nama": "batik tulis motif bayangtehari",
         "kuantitas": 1,
         "harga": 400000,
-        "total": 400000,
+        "jumlah": 400000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-14T17:00:00.000Z",
         "nama": "batik toys kuda lumping",
         "kuantitas": 2,
         "harga": 800000,
-        "total": 1600000,
+        "jumlah": 1600000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-14T17:00:00.000Z",
         "nama": "kuda lumping ",
         "kuantitas": 1,
         "harga": 700000,
-        "total": 700000,
+        "jumlah": 700000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-14T17:00:00.000Z",
         "nama": "batik kuda lumping sarimbit",
         "kuantitas": 2,
         "harga": 675000,
-        "total": 1350000,
+        "jumlah": 1350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-14T17:00:00.000Z",
         "nama": "batik parang mbreong",
         "kuantitas": 1,
         "harga": 625000,
-        "total": 625000,
+        "jumlah": 625000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-14T17:00:00.000Z",
         "nama": "batik kuda",
         "kuantitas": 1,
         "harga": 460000,
-        "total": 460000,
+        "jumlah": 460000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-14T17:00:00.000Z",
         "nama": "batik terpola",
         "kuantitas": 4,
         "harga": 360000,
-        "total": 1440000,
+        "jumlah": 1440000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-14T17:00:00.000Z",
         "nama": "batik cap kuda",
         "kuantitas": 1,
         "harga": 280000,
-        "total": 280000,
+        "jumlah": 280000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-14T17:00:00.000Z",
         "nama": "batik cap kuda",
         "kuantitas": 1,
         "harga": 250000,
-        "total": 250000,
+        "jumlah": 250000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-21T17:00:00.000Z",
         "nama": "batik cap motif kuda lumping",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-21T17:00:00.000Z",
         "nama": "jahit + turing",
         "kuantitas": 1,
         "harga": 150000,
-        "total": 150000,
+        "jumlah": 150000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-21T17:00:00.000Z",
         "nama": "batik cap full color motif kuda nama",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-06-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-06-21T17:00:00.000Z",
         "nama": "kombinasi toyoko",
         "kuantitas": 1,
         "harga": 25000,
-        "total": 25000,
+        "jumlah": 25000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-07-22T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-07-22T17:00:00.000Z",
         "nama": "batik destinasi kota kediri",
         "kuantitas": 1,
         "harga": 500000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-07-22T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-07-22T17:00:00.000Z",
         "nama": "kotak + pita",
         "kuantitas": 1,
         "harga": 70000,
-        "total": 70000,
+        "jumlah": 70000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-07-29T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-07-29T17:00:00.000Z",
         "nama": "batik tulis motif KPP",
         "kuantitas": 1,
         "harga": 450000,
-        "total": 450000,
+        "jumlah": 450000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-08-08T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-08T17:00:00.000Z",
         "nama": "batik sekarjagad kediri",
         "kuantitas": 1,
         "harga": 280000,
-        "total": 280000,
+        "jumlah": 280000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-08-08T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-08T17:00:00.000Z",
         "nama": "batik cap sekarjagad kuda lumping",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-08-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-13T17:00:00.000Z",
         "nama": "batik custom motif keong mas",
         "kuantitas": 1,
         "harga": 800000,
-        "total": 800000,
+        "jumlah": 800000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-08-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-13T17:00:00.000Z",
         "nama": "kotak + packing",
         "kuantitas": 1,
         "harga": 50000,
-        "total": 50000,
+        "jumlah": 50000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-08-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-14T17:00:00.000Z",
         "nama": "batik tulis 2x proses",
         "kuantitas": 1,
         "harga": 800000,
-        "total": 800000,
+        "jumlah": 800000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-08-17T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-17T17:00:00.000Z",
         "nama": "baju batik cap kuda sekarjagad",
         "kuantitas": 8,
         "harga": 333000,
-        "total": 2664000,
+        "jumlah": 2664000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-08-17T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-17T17:00:00.000Z",
         "nama": "baju batik cap kuda lumping cap sekarjagad",
         "kuantitas": 13,
         "harga": 333000,
-        "total": 4329000,
+        "jumlah": 4329000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-08-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-21T17:00:00.000Z",
         "nama": "batik cap sekarjagad kediri",
         "kuantitas": 1,
         "harga": 330000,
-        "total": 330000,
+        "jumlah": 330000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-08-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-21T17:00:00.000Z",
         "nama": "ecoprint",
         "kuantitas": 1,
         "harga": 280000,
-        "total": 280000,
+        "jumlah": 280000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-08-22T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-22T17:00:00.000Z",
         "nama": "blouse custom motif kuda lumping",
         "kuantitas": 1,
         "harga": 400000,
-        "total": 400000,
+        "jumlah": 400000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-08-22T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-22T17:00:00.000Z",
         "nama": "blouse cap batik luring",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-08-22T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-22T17:00:00.000Z",
         "nama": "batik cap bunga",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-03T17:00:00.000Z",
         "nama": "batik tulis kawung kuda lumping",
         "kuantitas": 2,
         "harga": 600000,
-        "total": 1200000,
+        "jumlah": 1200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-03T17:00:00.000Z",
         "nama": "toyobo",
         "kuantitas": 2,
         "harga": 50000,
-        "total": 100000,
+        "jumlah": 100000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-03T17:00:00.000Z",
         "nama": "ongkos jahit+furing",
         "kuantitas": 2,
         "harga": 150000,
-        "total": 300000,
+        "jumlah": 300000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-03T17:00:00.000Z",
         "nama": "ongkos jahit+furing",
         "kuantitas": 2,
         "harga": 100000,
-        "total": 200000,
+        "jumlah": 200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-04T17:00:00.000Z",
         "nama": "ongkos jahit celana dan atasan",
         "kuantitas": 1,
         "harga": 500000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-11T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-11T17:00:00.000Z",
         "nama": "batik cap motif kuda lumping",
         "kuantitas": 2,
         "harga": 220000,
-        "total": 440000,
+        "jumlah": 440000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-23T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-23T17:00:00.000Z",
         "nama": "batik costum",
         "kuantitas": 2,
         "harga": 450000,
-        "total": 900000,
+        "jumlah": 900000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-28T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-28T17:00:00.000Z",
         "nama": "batik premium jatayo",
         "kuantitas": 1,
         "harga": 1200000,
-        "total": 1200000,
+        "jumlah": 1200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-28T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-28T17:00:00.000Z",
         "nama": "totebag batik",
         "kuantitas": 1,
         "harga": 200000,
-        "total": 200000,
+        "jumlah": 200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-28T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-28T17:00:00.000Z",
         "nama": "bahan kombinasi abju",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-28T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-28T17:00:00.000Z",
         "nama": "tenun lurik bandar",
         "kuantitas": 1,
         "harga": 80000,
-        "total": 80000,
+        "jumlah": 80000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-28T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-28T17:00:00.000Z",
         "nama": "ongkos jahit dress jatayo",
         "kuantitas": 1,
         "harga": 500000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-28T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-28T17:00:00.000Z",
         "nama": "ongkos jahit kemeja custom",
         "kuantitas": 1,
         "harga": 170000,
-        "total": 170000,
+        "jumlah": 170000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-28T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-28T17:00:00.000Z",
         "nama": "jilbab",
         "kuantitas": 1,
         "harga": 22000,
-        "total": 22000,
+        "jumlah": 22000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-09-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-09-30T17:00:00.000Z",
         "nama": "sajadah 2x proses",
         "kuantitas": 1,
         "harga": 150000,
-        "total": 150000,
+        "jumlah": 150000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-10-01T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-01T17:00:00.000Z",
         "nama": "tenun ungu motif defi",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-10-01T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-01T17:00:00.000Z",
         "nama": "batik cap sekajad kuda biru",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-10-05T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-05T17:00:00.000Z",
         "nama": "batik motif new tutakamardare",
         "kuantitas": 1,
         "harga": 1700000,
-        "total": 1700000,
+        "jumlah": 1700000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-10-05T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-05T17:00:00.000Z",
         "nama": "batik punyalu djojati",
         "kuantitas": 1,
         "harga": 1200000,
-        "total": 1200000,
+        "jumlah": 1200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-10-16T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-16T17:00:00.000Z",
         "nama": "batik custom bluepart",
         "kuantitas": 15,
         "harga": 800000,
-        "total": 12000000,
+        "jumlah": 12000000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-10-17T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-17T17:00:00.000Z",
         "nama": "baju batik motif bnn",
         "kuantitas": 1,
         "harga": 360000,
-        "total": 360000,
+        "jumlah": 360000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-10-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-25T17:00:00.000Z",
         "nama": "batik motif naga",
         "kuantitas": 1,
         "harga": 600000,
-        "total": 600000,
+        "jumlah": 600000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-10-26T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-26T17:00:00.000Z",
         "nama": "kemeja motif kuda",
         "kuantitas": 1,
         "harga": 300000,
-        "total": 300000,
+        "jumlah": 300000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-10-26T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-26T17:00:00.000Z",
         "nama": "jahit",
         "kuantitas": 1,
         "harga": 150000,
-        "total": 150000,
+        "jumlah": 150000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-11-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-04T17:00:00.000Z",
         "nama": "batik custom motif ddm",
         "kuantitas": 1,
         "harga": 450000,
-        "total": 450000,
+        "jumlah": 450000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-11-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-04T17:00:00.000Z",
         "nama": "batik motif parang",
         "kuantitas": 1,
         "harga": 450000,
-        "total": 450000,
+        "jumlah": 450000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-06T17:00:00.000Z",
         "nama": "ongkos jahit kemeja+furing",
         "kuantitas": 1,
         "harga": 150000,
-        "total": 150000,
+        "jumlah": 150000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-06T17:00:00.000Z",
         "nama": "ongkos jahit",
         "kuantitas": 1,
         "harga": 320000,
-        "total": 320000,
+        "jumlah": 320000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-06T17:00:00.000Z",
         "nama": "ongkos jahit baju anak",
         "kuantitas": 1,
         "harga": 75000,
-        "total": 75000,
+        "jumlah": 75000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "kemeja batik dubis",
         "kuantitas": 1,
         "harga": 500000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "terpola batik tulis",
         "kuantitas": 2,
         "harga": 350000,
-        "total": 700000,
+        "jumlah": 700000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "batik cap sejaagd",
         "kuantitas": 3,
         "harga": 250000,
-        "total": 750000,
+        "jumlah": 750000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "batik cap full color motif kuda nama",
         "kuantitas": 2,
         "harga": 200000,
-        "total": 400000,
+        "jumlah": 400000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "box + packing",
         "kuantitas": 4,
         "harga": 50000,
-        "total": 200000,
+        "jumlah": 200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "kotak tanggung +packing",
         "kuantitas": 1,
         "harga": 25000,
-        "total": 25000,
+        "jumlah": 25000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "blazer batik tulis",
         "kuantitas": 1,
         "harga": 300000,
-        "total": 300000,
+        "jumlah": 300000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "kompor batik",
         "kuantitas": 1,
         "harga": 510000,
-        "total": 510000,
+        "jumlah": 510000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "r.titik merah",
         "kuantitas": 1,
-        "harga": 164000,
-        "total": 164000,
+        "harga": 64000,
+        "jumlah": 64000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "r.titik biru turki",
         "kuantitas": 1,
-        "harga": 64000,
-        "total": 64000,
+        "harga": 60000,
+        "jumlah": 60000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "r.ungu",
         "kuantitas": 1,
-        "harga": 60000,
-        "total": 60000,
+        "harga": 105000,
+        "jumlah": 105000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "r. kuning",
         "kuantitas": 1,
-        "harga": 105000,
-        "total": 105000,
+        "harga": 69000,
+        "jumlah": 69000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "canting irs",
         "kuantitas": 19,
-        "harga": 69000,
-        "total": 1311000,
+        "harga": 7500,
+        "jumlah": 142500,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "malam tulis cair",
         "kuantitas": 2,
-        "harga": 7500,
-        "total": 15000,
+        "harga": 65000,
+        "jumlah": 130000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-12T17:00:00.000Z",
         "nama": "kain primisima",
         "kuantitas": 15,
-        "harga": 65000,
-        "total": 975000,
+        "harga": 28000,
+        "jumlah": 420000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-15T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-15T17:00:00.000Z",
         "nama": "belajar batik",
         "kuantitas": 18,
-        "harga": 28000,
-        "total": 504000,
+        "harga": 80000,
+        "jumlah": 1440000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-12-19T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-19T17:00:00.000Z",
         "nama": "kemeja custom motif parang barong",
         "kuantitas": 1,
-        "harga": 80000,
-        "total": 80000,
+        "harga": 580000,
+        "jumlah": 580000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-11-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-20T17:00:00.000Z",
         "nama": "tenun atbm",
         "kuantitas": 6,
         "harga": 260000,
-        "total": 1560000,
+        "jumlah": 1560000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-11-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-20T17:00:00.000Z",
         "nama": "borklat mya",
         "kuantitas": 1,
         "harga": 275000,
-        "total": 275000,
+        "jumlah": 275000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-11-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-20T17:00:00.000Z",
         "nama": "tile plisket polka",
         "kuantitas": 20,
         "harga": 35000,
-        "total": 700000,
+        "jumlah": 700000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-11-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-20T17:00:00.000Z",
         "nama": "kain tambahan blouse",
         "kuantitas": 1,
         "harga": 70000,
-        "total": 70000,
+        "jumlah": 70000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-11-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-20T17:00:00.000Z",
         "nama": "faring",
         "kuantitas": 5,
         "harga": 25000,
-        "total": 125000,
+        "jumlah": 125000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-11-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-20T17:00:00.000Z",
         "nama": "jilbab hya & syafa",
         "kuantitas": 2,
         "harga": 35000,
-        "total": 70000,
+        "jumlah": 70000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-11-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-20T17:00:00.000Z",
         "nama": "renda jepang",
         "kuantitas": 7,
         "harga": 15000,
-        "total": 105000,
+        "jumlah": 105000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-11-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-20T17:00:00.000Z",
         "nama": "paket jepang",
         "kuantitas": 4,
         "harga": 15000,
-        "total": 60000,
+        "jumlah": 60000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-11-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-20T17:00:00.000Z",
         "nama": "ongkos gaun dewasa",
         "kuantitas": 5,
         "harga": 800000,
-        "total": 4000000,
+        "jumlah": 4000000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-11-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-20T17:00:00.000Z",
         "nama": "ongkos dress syafa",
         "kuantitas": 1,
         "harga": 300000,
-        "total": 300000,
+        "jumlah": 300000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2022-11-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-20T17:00:00.000Z",
         "nama": "transport 3x",
         "kuantitas": 1,
         "harga": 70000,
-        "total": 70000,
+        "jumlah": 70000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-02T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-02T17:00:00.000Z",
         "nama": "batik kuda lumping cap hitam parang",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-02T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-02T17:00:00.000Z",
         "nama": "batik kuda lumping cap birdong",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-02T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-02T17:00:00.000Z",
         "nama": "batik kuda lumping kombinasi pinggir cap bridong",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-02T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-02T17:00:00.000Z",
         "nama": "batik daun harno cap birdong",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-02T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-02T17:00:00.000Z",
         "nama": "batik cap matahari merah maron",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-02T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-02T17:00:00.000Z",
         "nama": "batik pagi sore cap anin",
         "kuantitas": 1,
         "harga": 230000,
-        "total": 230000,
+        "jumlah": 230000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-03T17:00:00.000Z",
         "nama": "monokron parang barong",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-03T17:00:00.000Z",
         "nama": "red dewi",
         "kuantitas": 1,
         "harga": 330000,
-        "total": 330000,
+        "jumlah": 330000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-03T17:00:00.000Z",
         "nama": "blue tirta",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-03T17:00:00.000Z",
         "nama": "box besar + kemasan",
         "kuantitas": 3,
         "harga": 50000,
-        "total": 150000,
+        "jumlah": 150000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-24T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-24T17:00:00.000Z",
         "nama": "batik motif cap sekarjagad",
         "kuantitas": 13,
         "harga": 235000,
-        "total": 3055000,
+        "jumlah": 3055000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-24T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-24T17:00:00.000Z",
         "nama": "ongkos jahit bu endang",
         "kuantitas": 1,
         "harga": 180000,
-        "total": 180000,
+        "jumlah": 180000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-24T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-24T17:00:00.000Z",
         "nama": "ongkos jahit bu denri",
         "kuantitas": 1,
         "harga": 140000,
-        "total": 140000,
+        "jumlah": 140000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-01-24T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-24T17:00:00.000Z",
         "nama": "batik custom motif garuda",
         "kuantitas": 13,
         "harga": 385000,
-        "total": 5005000,
+        "jumlah": 5005000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-02-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-02-06T17:00:00.000Z",
         "nama": "batik custom aksara jawa bhineka",
         "kuantitas": 1,
         "harga": 550000,
-        "total": 550000,
+        "jumlah": 550000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-02-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-02-06T17:00:00.000Z",
         "nama": "batik custom pemkot bag hukum",
         "kuantitas": 13,
         "harga": 355000,
-        "total": 4615000,
+        "jumlah": 4615000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-02-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-02-06T17:00:00.000Z",
         "nama": "batik cap kel banjar melati",
         "kuantitas": 13,
         "harga": 235000,
-        "total": 3055000,
+        "jumlah": 3055000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-02-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-02-06T17:00:00.000Z",
         "nama": "baju batik cap kantror kecamatan mojorejo",
         "kuantitas": 31,
         "harga": 300000,
-        "total": 9300000,
+        "jumlah": 9300000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-02-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-02-06T17:00:00.000Z",
         "nama": "box",
         "kuantitas": 1,
         "harga": 50000,
-        "total": 50000,
+        "jumlah": 50000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-02-13T17:00:00.000Z",
         "nama": "blazer nabila custom tenun 2 potong lapis turing golden mella",
         "kuantitas": 1,
         "harga": 520000,
-        "total": 520000,
+        "jumlah": 520000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-02-24T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-02-24T17:00:00.000Z",
         "nama": "batik custom motif garuda hukum 2023",
         "kuantitas": 13,
         "harga": 385000,
-        "total": 5005000,
+        "jumlah": 5005000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-02-28T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-02-28T17:00:00.000Z",
         "nama": "sajadah jumput lapis spon angin lapis turing ",
         "kuantitas": 1,
         "harga": 360000,
-        "total": 360000,
+        "jumlah": 360000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-02-28T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-02-28T17:00:00.000Z",
         "nama": "waterglass",
         "kuantitas": 1,
         "harga": 135000,
-        "total": 135000,
+        "jumlah": 135000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-02-28T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-02-28T17:00:00.000Z",
         "nama": "tunik merah custom tenun",
         "kuantitas": 1,
         "harga": 20000,
-        "total": 20000,
+        "jumlah": 20000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-05T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-05T17:00:00.000Z",
         "nama": "Batik tulis sekarjagad harno kuning gading",
         "kuantitas": 1,
         "harga": 600000,
-        "total": 600000,
+        "jumlah": 600000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-06T17:00:00.000Z",
         "nama": "Batik sekor jagad 2x proses teracota",
         "kuantitas": 2,
         "harga": 285000,
-        "total": 570000,
+        "jumlah": 570000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-06T17:00:00.000Z",
         "nama": "batik tulis motif dewi monocrome",
         "kuantitas": 1,
         "harga": 300000,
-        "total": 300000,
+        "jumlah": 300000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-06T17:00:00.000Z",
         "nama": "batik cap 2x proses bunga porong harno",
         "kuantitas": 1,
         "harga": 250000,
-        "total": 250000,
+        "jumlah": 250000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-06T17:00:00.000Z",
         "nama": "batik tulis terpola DPMPTSP 2x proses",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-13T17:00:00.000Z",
         "nama": "batik custom 2x proses",
         "kuantitas": 1,
         "harga": 400000,
-        "total": 400000,
+        "jumlah": 400000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-13T17:00:00.000Z",
         "nama": "motif pak taufik (1 set)",
         "kuantitas": 1,
         "harga": 350000,
-        "total": 350000,
+        "jumlah": 350000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-13T17:00:00.000Z",
         "nama": "box + packing",
         "kuantitas": 1,
         "harga": 50000,
-        "total": 50000,
+        "jumlah": 50000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-13T17:00:00.000Z",
         "nama": "batik motif cap",
         "kuantitas": 1,
         "harga": 235000,
-        "total": 235000,
+        "jumlah": 235000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-13T17:00:00.000Z",
         "nama": "bbatik custom motif BMM21",
         "kuantitas": 1,
         "harga": 500000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-23T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-23T17:00:00.000Z",
         "nama": "desain",
         "kuantitas": 1,
         "harga": 50000,
-        "total": 50000,
+        "jumlah": 50000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-23T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-23T17:00:00.000Z",
         "nama": "batik ke 1",
         "kuantitas": 1,
         "harga": 100000,
-        "total": 100000,
+        "jumlah": 100000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-23T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-23T17:00:00.000Z",
         "nama": "batik ke 2",
         "kuantitas": 1,
         "harga": 100000,
-        "total": 100000,
+        "jumlah": 100000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-23T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-23T17:00:00.000Z",
         "nama": "memprodo",
         "kuantitas": 2,
         "harga": 75000,
-        "total": 150000,
+        "jumlah": 150000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-23T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-23T17:00:00.000Z",
         "nama": "ongkos prodo",
         "kuantitas": 2,
         "harga": 100000,
-        "total": 200000,
+        "jumlah": 200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-23T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-23T17:00:00.000Z",
         "nama": "canting",
         "kuantitas": 2,
         "harga": 7500,
-        "total": 15000,
+        "jumlah": 15000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-25T17:00:00.000Z",
         "nama": "seragam batik cap 2x proses tumpal paramg",
         "kuantitas": 31,
         "harga": 300000,
-        "total": 9300000,
+        "jumlah": 9300000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-28T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-28T17:00:00.000Z",
         "nama": "batik premium 2x proses motif turonggo",
         "kuantitas": 1,
         "harga": 1800000,
-        "total": 1800000,
+        "jumlah": 1800000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-30T17:00:00.000Z",
         "nama": "batik premium motif jayabaya agung 2x proses",
         "kuantitas": 1,
         "harga": 3200000,
-        "total": 3200000,
+        "jumlah": 3200000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-30T17:00:00.000Z",
         "nama": "seragam batik custom motif parang borong",
         "kuantitas": 15,
         "harga": 350000,
-        "total": 5250000,
+        "jumlah": 5250000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-30T17:00:00.000Z",
         "nama": "batik custom motif spatu ada kuda",
         "kuantitas": 16,
         "harga": 385000,
-        "total": 6160000,
+        "jumlah": 6160000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-30T17:00:00.000Z",
         "nama": "parang barang 2x proses",
         "kuantitas": 1,
         "harga": 285000,
-        "total": 285000,
+        "jumlah": 285000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2023-03-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-03-30T17:00:00.000Z",
         "nama": "Ongkos jahit lapis fering",
         "kuantitas": 1,
         "harga": 150000,
-        "total": 150000,
+        "jumlah": 150000,
         "category": "Pemasukan"
     },
     {
-        "tanggal": "2021-07-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-07-04T17:00:00.000Z",
         "nama": "jahit pak sui",
         "kuantitas": 1,
         "harga": 500000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-08-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-08-06T17:00:00.000Z",
         "nama": "jahit pak sui",
         "kuantitas": 1,
         "harga": 500000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-08-15T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-08-15T17:00:00.000Z",
         "nama": "jahit pak sui",
         "kuantitas": 1,
         "harga": 3500000,
-        "total": 3500000,
+        "jumlah": 3500000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-08-15T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-08-15T17:00:00.000Z",
         "nama": "primis 63/115.119 yard",
         "kuantitas": 1,
         "harga": 2023000,
-        "total": 2023000,
+        "jumlah": 2023000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-08-15T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-08-15T17:00:00.000Z",
         "nama": "prima rj 59 yard",
         "kuantitas": 1,
-        "harga": 767000,
-        "total": 767000,
+        "harga": 13000,
+        "jumlah": 767000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-08-17T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-08-17T17:00:00.000Z",
         "nama": "waterglas codi",
         "kuantitas": 50,
         "harga": 6300,
-        "total": 315000,
+        "jumlah": 315000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-08-17T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-08-17T17:00:00.000Z",
         "nama": "regen",
         "kuantitas": 1,
         "harga": 35000,
-        "total": 35000,
+        "jumlah": 35000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-08-17T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-08-17T17:00:00.000Z",
         "nama": "ongkos",
         "kuantitas": 1,
         "harga": 110000,
-        "total": 110000,
+        "jumlah": 110000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-08-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-08-20T17:00:00.000Z",
         "nama": "spon angin 4mm",
         "kuantitas": 1,
         "harga": 568000,
-        "total": 568000,
+        "jumlah": 568000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-08-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-08-20T17:00:00.000Z",
         "nama": "benang yml 500 yard",
         "kuantitas": 10,
         "harga": 1700,
-        "total": 17000,
+        "jumlah": 17000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-08-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-08-20T17:00:00.000Z",
         "nama": "renda tassel",
         "kuantitas": 4,
         "harga": 7500,
-        "total": 30000,
+        "jumlah": 30000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-08-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-08-20T17:00:00.000Z",
         "nama": "poly hitam",
         "kuantitas": 25,
         "harga": 20000,
-        "total": 500000,
+        "jumlah": 500000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-08-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-08-25T17:00:00.000Z",
         "nama": "gm hitam",
         "kuantitas": 1,
         "harga": 306200,
-        "total": 306200,
+        "jumlah": 306200,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-09-19T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-09-19T17:00:00.000Z",
         "nama": "gm hitam",
         "kuantitas": 1,
         "harga": 483000,
-        "total": 483000,
+        "jumlah": 483000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-09-19T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-09-19T17:00:00.000Z",
         "nama": "tricotf221000",
         "kuantitas": 6,
         "harga": 21000,
-        "total": 126000,
+        "jumlah": 126000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-09-19T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-09-19T17:00:00.000Z",
         "nama": "10A3(AP310)",
         "kuantitas": 1,
         "harga": 40000,
-        "total": 40000,
+        "jumlah": 40000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-09-19T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-09-19T17:00:00.000Z",
         "nama": "10A3(AP-bantak Camel)",
         "kuantitas": 1,
         "harga": 40000,
-        "total": 40000,
+        "jumlah": 40000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-09-19T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-09-19T17:00:00.000Z",
         "nama": "1xx(qp)",
         "kuantitas": 1,
         "harga": 5000,
-        "total": 5000,
+        "jumlah": 5000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-10-04T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-04T17:00:00.000Z",
         "nama": "bon numansa",
         "kuantitas": 1,
         "harga": 1130000,
-        "total": 1130000,
+        "jumlah": 1130000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-10-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-06T17:00:00.000Z",
         "nama": "water glass cole",
         "kuantitas": 50,
         "harga": 6500,
-        "total": 325000,
+        "jumlah": 325000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-10-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-06T17:00:00.000Z",
         "nama": "ml granit",
         "kuantitas": 5,
         "harga": 32000,
-        "total": 160000,
+        "jumlah": 160000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-10-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-06T17:00:00.000Z",
         "nama": "canting kuning",
         "kuantitas": 5,
         "harga": 3000,
-        "total": 15000,
+        "jumlah": 15000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-10-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-06T17:00:00.000Z",
         "nama": "canting klazo",
         "kuantitas": 5,
         "harga": 3000,
-        "total": 15000,
+        "jumlah": 15000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-10-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-06T17:00:00.000Z",
         "nama": "z gh",
         "kuantitas": 1,
         "harga": 70000,
-        "total": 70000,
+        "jumlah": 70000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-10-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-06T17:00:00.000Z",
         "nama": "ongkos",
         "kuantitas": 1,
         "harga": 110000,
-        "total": 110000,
+        "jumlah": 110000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-10-07T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-07T17:00:00.000Z",
         "nama": "dp p.tris",
         "kuantitas": 1,
-        "harga": 50000,
-        "total": 500000,
+        "harga": 500000,
+        "jumlah": 500000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-10-07T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-07T17:00:00.000Z",
         "nama": "nuno ke jombang",
         "kuantitas": 1,
         "harga": 50000,
-        "total": 50000,
+        "jumlah": 50000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-10-07T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-07T17:00:00.000Z",
         "nama": "numansa(deza)",
         "kuantitas": 1,
         "harga": 50000,
-        "total": 50000,
+        "jumlah": 50000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-10-09T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-10-09T17:00:00.000Z",
         "nama": "katun jepang",
         "kuantitas": 1,
         "harga": 138000,
-        "total": 138000,
+        "jumlah": 138000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-11-09T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-09T17:00:00.000Z",
         "nama": "poly furing",
         "kuantitas": 5,
         "harga": 22000,
-        "total": 110000,
+        "jumlah": 110000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-11-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-14T17:00:00.000Z",
         "nama": "waterglass jadi",
         "kuantitas": 1,
         "harga": 325000,
-        "total": 325000,
+        "jumlah": 325000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-11-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-14T17:00:00.000Z",
         "nama": "rom red rb",
         "kuantitas": 1,
         "harga": 75500,
-        "total": 75500,
+        "jumlah": 75500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-11-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-14T17:00:00.000Z",
         "nama": "1dh rigen",
         "kuantitas": 1,
         "harga": 35000,
-        "total": 35000,
+        "jumlah": 35000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-11-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-14T17:00:00.000Z",
         "nama": "ongkos",
         "kuantitas": 1,
         "harga": 55000,
-        "total": 55000,
+        "jumlah": 55000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-11-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-14T17:00:00.000Z",
         "nama": "primis primatex 50 yard",
         "kuantitas": 1,
         "harga": 975000,
-        "total": 975000,
+        "jumlah": 975000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-11-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-11-14T17:00:00.000Z",
         "nama": "ongkos",
         "kuantitas": 1,
         "harga": 55000,
-        "total": 55000,
+        "jumlah": 55000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-12-05T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-05T17:00:00.000Z",
         "nama": "26x33x13 kraft",
         "kuantitas": 1,
         "harga": 17500,
-        "total": 17500,
+        "jumlah": 17500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-12-08T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-08T17:00:00.000Z",
         "nama": "tricotf221000",
         "kuantitas": 5,
         "harga": 21000,
-        "total": 105000,
+        "jumlah": 105000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-12-10T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-10T17:00:00.000Z",
         "nama": "opp 25x35",
         "kuantitas": 2,
         "harga": 22000,
-        "total": 44000,
+        "jumlah": 44000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-12-27T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-27T17:00:00.000Z",
         "nama": "primis primater pat coo yel",
         "kuantitas": 1,
-        "harga": 20000,
-        "total": 2000000,
+        "harga": 2000000,
+        "jumlah": 2000000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-12-27T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-27T17:00:00.000Z",
         "nama": "rem black",
         "kuantitas": 1,
         "harga": 64500,
-        "total": 64500,
+        "jumlah": 64500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-12-27T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-27T17:00:00.000Z",
         "nama": "ongkos",
         "kuantitas": 1,
         "harga": 55000,
-        "total": 55000,
+        "jumlah": 55000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-13T17:00:00.000Z",
         "nama": "waterglass jadi",
         "kuantitas": 50,
         "harga": 6500,
-        "total": 325000,
+        "jumlah": 325000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-13T17:00:00.000Z",
         "nama": "malam granti a",
         "kuantitas": 6,
         "harga": 33000,
-        "total": 198000,
+        "jumlah": 198000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-13T17:00:00.000Z",
         "nama": "rem yellow f6",
         "kuantitas": 1,
         "harga": 72000,
-        "total": 72000,
+        "jumlah": 72000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-13T17:00:00.000Z",
         "nama": "rem red rb",
         "kuantitas": 1,
         "harga": 70000,
-        "total": 70000,
+        "jumlah": 70000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-13T17:00:00.000Z",
         "nama": "rem orange 3r",
         "kuantitas": 1,
         "harga": 132000,
-        "total": 132000,
+        "jumlah": 132000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-13T17:00:00.000Z",
         "nama": "cc brown gr",
         "kuantitas": 1,
         "harga": 63500,
-        "total": 63500,
+        "jumlah": 63500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-02-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-02-13T17:00:00.000Z",
         "nama": "pail/jerican isi wtg",
         "kuantitas": 1,
         "harga": 35000,
-        "total": 35000,
+        "jumlah": 63500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-03-07T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-07T17:00:00.000Z",
         "nama": "primis-primis bms l115(sht)",
         "kuantitas": 1,
         "harga": 2405000,
-        "total": 2405000,
+        "jumlah": 2405000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-03-07T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-07T17:00:00.000Z",
         "nama": "remazol blue rsp 100%",
         "kuantitas": 1,
         "harga": 99500,
-        "total": 99500,
+        "jumlah": 99500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-03-09T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-03-09T17:00:00.000Z",
         "nama": "kaca 8mm ukuran 60x90",
         "kuantitas": 1,
         "harga": 200000,
-        "total": 200000,
+        "jumlah": 200000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-04-05T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-04-05T17:00:00.000Z",
         "nama": "watergloss jadi",
         "kuantitas": 50,
         "harga": 6600,
-        "total": 330000,
+        "jumlah": 330000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-04-05T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-04-05T17:00:00.000Z",
         "nama": "rem black b",
         "kuantitas": 1,
         "harga": 132000,
-        "total": 132000,
+        "jumlah": 132000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-04-05T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-04-05T17:00:00.000Z",
         "nama": "pail/jerican isi wtg",
         "kuantitas": 1,
         "harga": 35000,
-        "total": 35000,
+        "jumlah": 35000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-07-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-07-20T17:00:00.000Z",
         "nama": "watergloss jadi",
         "kuantitas": 50,
         "harga": 6500,
-        "total": 325000,
+        "jumlah": 325000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-07-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-07-20T17:00:00.000Z",
         "nama": "malam granit",
         "kuantitas": 6,
         "harga": 33000,
-        "total": 198000,
+        "jumlah": 198000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-07-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-07-20T17:00:00.000Z",
         "nama": "rem blue r",
         "kuantitas": 1,
         "harga": 77000,
-        "total": 77000,
+        "jumlah": 77000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-07-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-07-20T17:00:00.000Z",
         "nama": "cc brown gr",
         "kuantitas": 1,
         "harga": 66000,
-        "total": 66000,
+        "jumlah": 66000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-07-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-07-20T17:00:00.000Z",
         "nama": "cc violet 5r",
         "kuantitas": 1,
         "harga": 45500,
-        "total": 45500,
+        "jumlah": 45500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-07-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-07-20T17:00:00.000Z",
         "nama": "cc green 1b",
         "kuantitas": 1,
         "harga": 46000,
-        "total": 46000,
+        "jumlah": 46000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-08-17T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-17T17:00:00.000Z",
         "nama": "day xx 02.0",
         "kuantitas": 1,
         "harga": 49000,
-        "total": 49000,
+        "jumlah": 49000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-08-17T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-17T17:00:00.000Z",
         "nama": "day xx 07",
         "kuantitas": 1,
         "harga": 26000,
-        "total": 26000,
+        "jumlah": 26000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-08-17T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-17T17:00:00.000Z",
         "nama": "day xx 02.1",
         "kuantitas": 1,
         "harga": 35500,
-        "total": 35500,
+        "jumlah": 35500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-08-17T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-17T17:00:00.000Z",
         "nama": "day xx 02",
         "kuantitas": 1,
         "harga": 56000,
-        "total": 56000,
+        "jumlah": 56000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-08-17T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-17T17:00:00.000Z",
         "nama": "pattern",
         "kuantitas": 1,
         "harga": 22000,
-        "total": 22000,
+        "jumlah": 22000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-08-17T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-17T17:00:00.000Z",
         "nama": "enchante",
         "kuantitas": 1,
         "harga": 16000,
-        "total": 16000,
+        "jumlah": 16000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-08-17T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-17T17:00:00.000Z",
         "nama": "day xx03",
         "kuantitas": 1,
         "harga": 59000,
-        "total": 59000,
+        "jumlah": 59000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-08-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-25T17:00:00.000Z",
         "nama": "task pikis bsr wrn",
         "kuantitas": 11,
         "harga": 2750,
-        "total": 30250,
+        "jumlah": 30250,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-08-25T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-08-25T17:00:00.000Z",
         "nama": "tas kikiy kraft large",
         "kuantitas": 4,
         "harga": 6000,
-        "total": 24000,
+        "jumlah": 24000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-10-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-12T17:00:00.000Z",
         "nama": "watergloss jadi",
         "kuantitas": 50,
         "harga": 6600,
-        "total": 330000,
+        "jumlah": 330000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-10-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-12T17:00:00.000Z",
         "nama": "rem orange 3r",
         "kuantitas": 1,
         "harga": 138500,
-        "total": 138500,
+        "jumlah": 138500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-10-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-12T17:00:00.000Z",
         "nama": "cc brown 6k",
         "kuantitas": 1,
-        "harga": 68000,
-        "total": 68000,
+        "harga": 136000,
+        "jumlah": 68000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-10-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-12T17:00:00.000Z",
         "nama": "malam granit",
         "kuantitas": 6,
         "harga": 34000,
-        "total": 204000,
+        "jumlah": 204000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-10-12T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-12T17:00:00.000Z",
         "nama": "canting kuning",
         "kuantitas": 15,
         "harga": 3000,
-        "total": 45000,
+        "jumlah": 45000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-10-13T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-13T17:00:00.000Z",
         "nama": "srei polyester import",
         "kuantitas": 5,
         "harga": 22000,
-        "total": 110000,
+        "jumlah": 110000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-12-01T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-01T17:00:00.000Z",
         "nama": "tricot f3(hitam)",
         "kuantitas": 1,
         "harga": 80500,
-        "total": 80500,
+        "jumlah": 80500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-12-01T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-01T17:00:00.000Z",
         "nama": "kombet keramik",
         "kuantitas": 2,
         "harga": 335000,
-        "total": 670000,
+        "jumlah": 670000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-12-01T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-01T17:00:00.000Z",
         "nama": "sol orange hk",
         "kuantitas": 1,
         "harga": 99000,
-        "total": 99000,
+        "jumlah": 99000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-12-01T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-01T17:00:00.000Z",
         "nama": "rem blues ksp",
         "kuantitas": 1,
         "harga": 76000,
-        "total": 76000,
+        "jumlah": 76000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-11-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-03T17:00:00.000Z",
         "nama": "furing bu endang",
         "kuantitas": 5,
         "harga": 21000,
-        "total": 105000,
+        "jumlah": 105000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-10-19T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-19T17:00:00.000Z",
         "nama": "tile plisket bu endang",
         "kuantitas": 5,
         "harga": 32500,
-        "total": 162500,
+        "jumlah": 162500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-10-19T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-10-19T17:00:00.000Z",
         "nama": "batik potongan ganesha",
         "kuantitas": 1,
         "harga": 175000,
-        "total": 175000,
+        "jumlah": 175000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-11-07T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-07T17:00:00.000Z",
         "nama": "airflow cey mb5(25-mustrad)",
         "kuantitas": 2,
         "harga": 27500,
-        "total": 55000,
+        "jumlah": 55000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-11-07T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-07T17:00:00.000Z",
         "nama": "dot pilsket (7(dustypink))",
         "kuantitas": 10,
         "harga": 32500,
-        "total": 325000,
+        "jumlah": 325000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-11-09T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-09T17:00:00.000Z",
         "nama": "dot pilsket (7(dustypink))",
         "kuantitas": 5,
         "harga": 162500,
-        "total": 162500,
+        "jumlah": 162500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-11-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-06T17:00:00.000Z",
         "nama": "resleting bu endang",
         "kuantitas": 1,
         "harga": 30000,
-        "total": 30000,
+        "jumlah": 30000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-11-06T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-06T17:00:00.000Z",
         "nama": "renda bu endang",
         "kuantitas": 1,
         "harga": 70000,
-        "total": 70000,
+        "jumlah": 70000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-11-10T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-10T17:00:00.000Z",
         "nama": "chantily soltiss 3642 (8 pale-pink)",
         "kuantitas": 1,
         "harga": 245000,
-        "total": 245000,
+        "jumlah": 245000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-11-10T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-10T17:00:00.000Z",
         "nama": "54 diamond azara",
         "kuantitas": 2,
         "harga": 19000,
-        "total": 38000,
+        "jumlah": 38000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-11-15T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-15T17:00:00.000Z",
         "nama": "p.sur gaji november",
         "kuantitas": 1,
         "harga": 3000000,
-        "total": 3000000,
+        "jumlah": 3000000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-11-14T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-14T17:00:00.000Z",
         "nama": "queen cleopatra",
         "kuantitas": 1,
         "harga": 60000,
-        "total": 60000,
+        "jumlah": 60000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-11-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-03T17:00:00.000Z",
         "nama": "gaji spg (stay km)",
         "kuantitas": 1,
         "harga": 850000,
-        "total": 850000,
+        "jumlah": 850000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-11-15T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-15T17:00:00.000Z",
         "nama": "midangan",
         "kuantitas": 31,
         "harga": 5500,
-        "total": 173000,
+        "jumlah": 173000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-11-15T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-11-15T17:00:00.000Z",
         "nama": "kuas batik",
         "kuantitas": 1,
         "harga": 110000,
-        "total": 110000,
+        "jumlah": 110000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-01-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-03T17:00:00.000Z",
         "nama": "taspolos gsr tali mendon",
         "kuantitas": 12,
         "harga": 4000,
-        "total": 48000,
+        "jumlah": 48000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-01-03T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-03T17:00:00.000Z",
         "nama": "tas polos tg tali mendong",
         "kuantitas": 5,
         "harga": 4000,
-        "total": 20000,
+        "jumlah": 20000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-01-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-21T17:00:00.000Z",
         "nama": "tas polos ps tali mendong",
         "kuantitas": 11,
         "harga": 6000,
-        "total": 66000,
+        "jumlah": 66000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-01-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-21T17:00:00.000Z",
         "nama": "tas polos tg tali mendong",
         "kuantitas": 5,
         "harga": 4000,
-        "total": 20000,
+        "jumlah": 20000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-01-09T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-09T17:00:00.000Z",
         "nama": "hvs f4 80 sidu",
         "kuantitas": 1,
         "harga": 62500,
-        "total": 62500,
+        "jumlah": 62500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-01-09T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-09T17:00:00.000Z",
         "nama": "clear holder su",
         "kuantitas": 1,
         "harga": 49500,
-        "total": 49500,
+        "jumlah": 49500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-01-18T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-18T17:00:00.000Z",
         "nama": "water glass jadi",
         "kuantitas": 50,
         "harga": 6600,
-        "total": 330000,
+        "jumlah": 330000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-01-18T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-18T17:00:00.000Z",
         "nama": "rem red rb",
         "kuantitas": 1,
         "harga": 77000,
-        "total": 77000,
+        "jumlah": 77000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-01-18T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-18T17:00:00.000Z",
         "nama": "rem yellow fg",
         "kuantitas": 1,
         "harga": 83500,
-        "total": 83500,
+        "jumlah": 83500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-01-18T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-18T17:00:00.000Z",
         "nama": "rem black b",
         "kuantitas": 1,
         "harga": 66500,
-        "total": 66500,
+        "jumlah": 66500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-01-18T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-18T17:00:00.000Z",
         "nama": "rem renquese",
         "kuantitas": 1,
         "harga": 63000,
-        "total": 63000,
+        "jumlah": 63000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-01-18T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-18T17:00:00.000Z",
         "nama": "sol yellow",
         "kuantitas": 1,
         "harga": 69500,
-        "total": 69500,
+        "jumlah": 69500,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-01-20T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-01-20T17:00:00.000Z",
         "nama": "primis primis bms l115(sht)",
         "kuantitas": 80,
         "harga": 21000,
-        "total": 1680000,
+        "jumlah": 1680000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-02-24T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-02-24T17:00:00.000Z",
         "nama": "beli bahan batik ke pak haryanto",
         "kuantitas": 1,
         "harga": 1250000,
-        "total": 1250000,
+        "jumlah": 1250000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-02-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-02-21T17:00:00.000Z",
         "nama": "tas polos ps tali mendong",
         "kuantitas": 11,
         "harga": 6000,
-        "total": 66000,
+        "jumlah": 66000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-02-21T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-02-21T17:00:00.000Z",
         "nama": "tas polos tg tali mendong",
         "kuantitas": 5,
         "harga": 4000,
-        "total": 20000,
+        "jumlah": 20000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2021-12-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2021-12-30T17:00:00.000Z",
         "nama": "Gaji",
         "kuantitas": 12,
         "harga": 5000000,
-        "total": 60000000,
+        "jumlah": 60000000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2022-12-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2022-12-30T17:00:00.000Z",
         "nama": "Gaji",
         "kuantitas": 12,
         "harga": 6000000,
-        "total": 72000000,
+        "jumlah": 72000000,
         "category": "Pengeluaran"
     },
     {
-        "tanggal": "2023-12-30T17:00:00.000Z",
+        "tanggalBulanharitahun": "2023-12-30T17:00:00.000Z",
         "nama": "Gaji",
         "kuantitas": 3,
         "harga": 7800000,
-        "total": 23400000,
+        "jumlah": 23400000,
         "category": "Pengeluaran"
     }
 ]

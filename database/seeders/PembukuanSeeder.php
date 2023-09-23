@@ -21,7 +21,7 @@ class PembukuanSeeder extends Seeder
                 'nama' => $pembukuan->nama,
                 'jumlah' => $pembukuan->kuantitas,
                 'harga' => $pembukuan->harga,
-                'total' => $pembukuan->total,
+                'total' => $pembukuan->jumlah,
                 'category' => $pembukuan->category,
                 'umkm_id' => 1
             ]);
