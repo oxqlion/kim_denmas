@@ -2,7 +2,17 @@
 
 
 @section('content')
-    <div>
+    <div class="container">
+        <div class="row">
+            <div class="col m-5">
+
+                <table class="table table-hover-bordered">
+                    @foreach ($allUmkm as $umkm)
+                        <div class="list-group">
+                            <a href="{{ route('pembukuan-main', ['id' => $umkm->id]) }}">{{ $umkm->nama }}</a>
+                        </div>
+
+                    @endforeach
 
         <div class="container">
             <div class="row">
@@ -12,12 +22,15 @@
                             <a href="#"
                                 class="list-group-item list-group-item-action {{ $umkm->nama == 'dummy1' ? 'active' : '' }}">{{ $umkm->nama }}</a>
                         @endforeach
+                    <table class="table table-hover-bordered">
+                        <tr>
+                            <td>Nama</td>
+                            <td>Kuantitas</td>
+                            <td>Harga</td>
+                            <td>Total</td>
+                        </tr>
 
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="overflow">
-                        <table class="table table-bordered">
+                        @foreach ($pembukuanUmk as $buku)
                             <tr>
                                 <th>Nama</th>
                                 <th>Kuantitas</th>
