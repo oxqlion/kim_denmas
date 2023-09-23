@@ -69,7 +69,7 @@
         <div class="col-md-6 login-container">
             <div class="login-header">Welcome to Batik Artistry</div>
             <div class="batik-background">
-                <form class="login-form">
+                <form class="login-form" action="/pembukuan">
                     <div class="form-group">
                         <input type="text" class="form-control" placeholder="Username">
                     </div>
