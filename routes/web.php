@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\StokController;
 use Illuminate\Support\Facades\Route;
 use App\Models\Pembukuan;
 
@@ -32,11 +33,13 @@ Route::get('pembukuan', function() {
     ]);
 })->name('pembukuan-main');
 
-Route::get('home', function() {
-    return view('home',[
-        'active' =>"Home"
-    ]);
-})->name('home');
+// Route::get('stok', function() {
+//     return view('stok',[
+//         'active' =>"Stok",
+//     ]);
+// })->name('stok');
+
+Route::get('/stok', [StokController::class, 'getStokWithUMKM'])->name('stok');
 
 Route::get('umkm', function() {
     return view('umkm',[

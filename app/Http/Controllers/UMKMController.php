@@ -13,8 +13,7 @@ class UMKMController extends Controller
             'nama_umkm' => 'required|min:3'
         ]);
 
-        UMKM::create($validatedDataI);
-        
+        UMKM::create($validatedData);
         return redirect(route('umkm'));
     }
 
