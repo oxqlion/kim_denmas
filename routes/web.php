@@ -34,3 +34,9 @@ Route::get('umkm', function () {
         'active' => "UMKM"
     ]);
 })->name('umkm');
+
+Route::get('/katalog',function(){
+    return view('katalog',[
+        'active'=>"Katalog"
+    ]);
+})->name('katalog');
