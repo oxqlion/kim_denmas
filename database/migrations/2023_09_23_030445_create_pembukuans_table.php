@@ -15,8 +15,8 @@ return new class extends Migration
     {
         Schema::create('pembukuans', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('umkm_id')->constrained('umkms')->cascadeOnUpdate()->cascadeOnDelete();
-            $table->string('tipe');
+            $table->string('umkm_id');
+            $table->string('category');
             $table->string('nama');
             $table->integer('harga');
             $table->integer('jumlah');
