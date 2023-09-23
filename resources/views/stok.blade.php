@@ -2,15 +2,12 @@
 
 @section('content')
 <div>
-    @foreach ($stokUmkm as $stok)
-        <h1>{{ $stok->umkm_name }}</h1>
-    @endforeach
 
     <div class="container">
         <div class="row">
             <div class="col m-5">
                 <div class="list-group">
-                    @foreach ($stokUmkm as $umkm)
+                    @foreach ($listUmkm as $umkm)
                     <a href="#" class="list-group-item list-group-item-action {{ ($umkm->nama == "dummy1")? "active":"" }}">{{ $umkm->nama }}</a>
                     @endforeach
                     
@@ -18,6 +15,25 @@
             </div>
     
             <div class="col">
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Type</th>
+                    <th>Amount</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach ($stokUmkm as $umkm)
+                <tr>
+                    <td>{{ $umkm->nama }}</td>
+                    <td>{{ $umkm->tipe }}</td>
+                    <td>{{ $umkm->jumlah }}</td>
+                </tr>
+                @endforeach
+            </tbody>
+        </table>
     
             </div>
         </div>
