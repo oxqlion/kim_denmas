@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\StokController;
+use App\Http\Controllers\PembukuanController;
 use Illuminate\Support\Facades\Route;
 use App\Models\Pembukuan;
 
@@ -21,17 +22,18 @@ Route::get('/', function () {
     ]);
 });
 
-Route::get('pembukuan', function() {
-    return view('pembukuan',[
-        'active'=> "Pembukuan",
-        'datas'=>[
-            "dummy1",
-            "dummy2",
-            "dummy3",
-            "dummy4"
-        ]
-    ]);
-})->name('pembukuan-main');
+// Route::get('pembukuan', function() {
+//     return view('pembukuan',[
+//         'active'=> "Pembukuan",
+//         'datas'=>[
+//             "dummy1",
+//             "dummy2",
+//             "dummy3",
+//             "dummy4"
+//         ]
+//     ]);
+// })->name('pembukuan-main');
+Route::get('/pembukuan', [PembukuanController::class, 'getPembukuanWithUMKM'])->name('pembukuan-main');
 
 // Route::get('stok', function() {
 //     return view('stok',[
