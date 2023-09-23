@@ -1,0 +1,63 @@
+[
+    {
+        "tipe": "Laptop",
+        "nama": "HP Pavilion x360",
+        "jumlah": 25
+    },
+    {
+        "tipe": "Smartphone",
+        "nama": "Samsung Galaxy S21",
+        "jumlah": 30
+    },
+    {
+        "tipe": "Tablet",
+        "nama": "Apple iPad Air",
+        "jumlah": 15
+    },
+    {
+        "tipe": "Printer",
+        "nama": "Epson EcoTank L3150",
+        "jumlah": 12
+    },
+    {
+        "tipe": "Smartwatch",
+        "nama": "Apple Watch Series 6",
+        "jumlah": 18
+    },
+    {
+        "tipe": "Headphones",
+        "nama": "Sony WH-1000XM4",
+        "jumlah": 20
+    },
+    {
+        "tipe": "Laptop",
+        "nama": "Dell XPS 13",
+        "jumlah": 22
+    },
+    {
+        "tipe": "Smartphone",
+        "nama": "Google Pixel 5",
+        "jumlah": 27
+    },
+    {
+        "tipe": "Tablet",
+        "nama": "Samsung Galaxy Tab S7",
+        "jumlah": 10
+    },
+    {
+        "tipe": "Printer",
+        "nama": "Canon PIXMA MX922",
+        "jumlah": 8
+    },
+    {
+        "tipe": "Smartwatch",
+        "nama": "Garmin Forerunner 945",
+        "jumlah": 14
+    },
+    {
+        "tipe": "Headphones",
+        "nama": "Bose QuietComfort 35 II",
+        "jumlah": 16
+    }
+
+]
