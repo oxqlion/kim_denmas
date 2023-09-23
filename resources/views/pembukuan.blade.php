@@ -5,13 +5,13 @@
     <div class="container">
         <div class="row">
             <div class="col m-5">
-                <table class="table table-hover-bordered">
-                    @foreach ($pembukuanWithUMKM as $umkm)
-                        <div class="list-group">
-                            <a href="{{ route('pembukuan-admin', ['id' => $umkm->id]) }}">{{ $umkm->umkm_name }}</a>
-                        </div>
+                <div class="list-group">
+                    @foreach ($listUmkm as $umkm)
+                        <a href="#"
+                            class="list-group-item list-group-item-action {{ $umkm->nama == 'dummy1' ? 'active' : '' }}">{{ $umkm->nama }}</a>
                     @endforeach
-                </table>
+
+                </div>
             </div>
             <div class="col">
                 <div class="overflow">
@@ -23,7 +23,7 @@
                             <td>Harga</td>
                             <td>Total</td>
                         </tr>
-                        @foreach ($pembukuanWithUMKM as $buku)
+                        @foreach ($pembukuankWithUMKM as $buku)
                             <tr>
                                 <td>{{ $buku->nama }}</td>
                                 <td>{{ $buku->jumlah }}</td>
