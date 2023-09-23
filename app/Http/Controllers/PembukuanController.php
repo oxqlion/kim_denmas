@@ -14,7 +14,7 @@ class PembukuanController extends Controller
     public function getPembukuanWithUMKM()
     {
         // Perform the join operation between the Stok and UMKM tables
-        $pembukuanWithUMKM = Pembukuan::join('umkms', 'pembukuans.umkm_id', '=', 'umkms.id')
+        $pembukuanWithUMKM = Pembukuan::join('u_m_k_m_s as umkms', 'pembukuans.umkm_id', '=', 'umkms.id')
             ->select('pembukuans.*', 'umkms.nama as umkm_name', 'umkms.id as umkm_id')
             ->get();
 
