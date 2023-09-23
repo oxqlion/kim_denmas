@@ -33,6 +33,10 @@ Route::get('/katalog',function(){
     ]);
 })->name('katalog');
 
+Route::get('/admin_login', function () {
+    return view('login');
+})->name('login');
+
 Route::get('umkm', function () {
     return view('umkm', [
         'active' => "UMKM"

@@ -44,7 +44,7 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="btn btn-primary" href="#">Login as Admin</a>
+                        <a class="btn btn-primary" href="{{ route('login') }}">Login as Admin</a>
                     </li>
                 </ul>
             </div>
