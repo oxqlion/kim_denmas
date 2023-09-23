@@ -2,7 +2,5 @@
 
 
 @section('content')
-    <div>
-        f
-    </div>
+    <h1>ksks</h1>
 @endsection

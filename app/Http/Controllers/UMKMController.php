@@ -7,7 +7,6 @@ use Illuminate\Http\Request;
 
 class UMKMController extends Controller
 {
-    //add umkm
 
     public function store(Request $request){
         $validatedData = $request->validate([
@@ -24,5 +23,6 @@ class UMKMController extends Controller
         return view('',[
             'umkm'=>$umkm
         ]);
+
     }
 }
