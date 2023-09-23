@@ -16,6 +16,11 @@ return new class extends Migration
         Schema::create('stocks', function (Blueprint $table) {
             $table->id();
             $table->timestamps();
+            $table->foreign("umkm_id")->constrained('u_m_k_m')->cascadeOnDelete()->cascadeOnUpdate();
+            $table->string('tipe');
+            $table->string('nama');
+            $table->integer('jumlah');
+
         });
     }
 
