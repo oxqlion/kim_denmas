@@ -15,7 +15,9 @@ use App\Models\Pembukuan;
 */
 
 Route::get('/', function () {
-    return view('components.parent');
+    return view('home',[
+        'active'=>"Home"
+    ]);
 });
 
 Route::get('pembukuan', function() {

@@ -7,5 +7,22 @@ use Illuminate\Http\Request;
 
 class UMKMController extends Controller
 {
-    //
+    //add umkm
+
+    public function store(Request $request){
+        $validatedData = $request->validate([
+            'nama_umkm' => 'required|min:3'
+        ]);
+
+        UMKM::create($validatedDataI);
+        
+        return redirect(route('umkm'));
+    }
+
+    public function show(UMKM $umkm){
+
+        return view('',[
+            'umkm'=>$umkm
+        ]);
+    }
 }
