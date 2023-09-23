@@ -3,8 +3,6 @@
 namespace App\Http\Controllers;
 use App\Models\Pembukuan;
 use App\Models\UMKM;
-
-use App\Models\UMKM;
 use Illuminate\Http\Request;
 
 class PembukuanController extends Controller
