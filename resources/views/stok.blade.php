@@ -8,7 +8,7 @@
                     <div class="list-group">
                         @foreach ($listUmkm as $umkm)
                             <a href="#"
-                                class="list-group-item list-group-item-action {{ $umkm->nama == 'dummy1' ? 'active' : '' }}">{{ $umkm->nama }}</a>
+                                class="list-group-item list-group-item-action {{ $umkm->nama }}">{{ $umkm->nama }}</a>
                         @endforeach
                     </div>
                 </div>

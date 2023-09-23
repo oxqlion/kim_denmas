@@ -17,8 +17,8 @@ use App\Models\Pembukuan;
 */
 
 Route::get('/', function () {
-    return view('home', [
-        'active' => "Home"
+    return view('landing', [
+        'active' => "Landing"
     ]);
 });
 Route::get('/pembukuan', [PembukuanController::class, 'getPembukuanWithUMKM'])->name('pembukuan-main');
@@ -28,6 +28,7 @@ Route::get('/pengeluaran/{id}', [PembukuanController::class, 'getPengeluaran'])-
 Route::get('/stok', [StokController::class, 'getStokWithUMKM'])->name('stok');
 
 Route::post('/storeTransaction/{id}', [PembukuanController::class, 'createPembukuan'])->name('store-transaction');
+
 
 Route::get('umkm', function () {
     return view('umkm', [
