@@ -11,6 +11,10 @@ class UMKM extends Model
 {
     use HasFactory;
 
+    protected $fillable = [
+        'nama'
+    ];
+
     function Pembukuan() {
         $this->hasMany(Pembukuan::class);
     }

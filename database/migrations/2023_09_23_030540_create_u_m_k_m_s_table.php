@@ -13,11 +13,7 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('u_m_k_m_s', function (Blueprint $table) {
-            $table->id();
-            $table->string('nama_umkm');
-            $table->timestamps();
-        });
+
     }
 
     /**
@@ -27,6 +23,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('u_m_k_m_s');
+        // Schema::dropIfExists('u_m_k_m_s');
     }
 };

@@ -6,5 +6,7 @@ use Illuminate\Http\Request;
 
 class PembukuanController extends Controller
 {
-    // function getAll
+    function getAllPengeluaranById(Request $req) {
+        
+    }
 }
