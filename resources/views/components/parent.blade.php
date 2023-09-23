@@ -18,10 +18,7 @@
                     <a class="nav-link active" aria-current="true" href="{{ route('home') }}">aaa</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="true"  href="{{ route('pembukuan-main') }}">Link</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-disabled="false">Disabled</a>
+                    <a class="nav-link" aria-current="true" href="{{ route('pembukuan-main') }}">Link</a>
                 </li>
             </ul>
         </div>
