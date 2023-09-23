@@ -6,9 +6,9 @@
         <div class="row">
             <div class="col m-5">
                 <table class="table table-hover-bordered">
-                    @foreach ($pembukuanWithUMKM as $umkm)
+                    @foreach ($allUmkm as $umkm)
                         <div class="list-group">
-                            <a href="{{ route('pembukuan-admin', ['id' => $umkm->id]) }}">{{ $umkm->umkm_name }}</a>
+                            <a href="{{ route('pembukuan-main', ['id' => $umkm->id]) }}">{{ $umkm->nama }}</a>
                         </div>
                     @endforeach
                 </table>
@@ -23,7 +23,7 @@
                             <td>Harga</td>
                             <td>Total</td>
                         </tr>
-                        @foreach ($pembukuanWithUMKM as $buku)
+                        @foreach ($pembukuanUmk as $buku)
                             <tr>
                                 <td>{{ $buku->nama }}</td>
                                 <td>{{ $buku->jumlah }}</td>
