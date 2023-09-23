@@ -16,39 +16,39 @@ class UMKMSeeder extends Seeder
     public function run()
     {
 
-        UMKM::create([
-            'nama' => "Numansa"
-        ]);
-        UMKM::create([
-            'nama' => "Kaderman"
-        ]);
+        // UMKM::create([
+        //     'nama' => "Numansa"
+        // ]);
+        // UMKM::create([
+        //     'nama' => "Kaderman"
+        // ]);
 
-        UMKM::create([
-            'nama' => "Semanding"
-        ]);
+        // UMKM::create([
+        //     'nama' => "Semanding"
+        // ]);
 
-        UMKM::create([
-            'nama' => "Fitria"
-        ]);
+        // UMKM::create([
+        //     'nama' => "Fitria"
+        // ]);
 
-        UMKM::create([
-            'nama' => "Raig"
-        ]);
+        // UMKM::create([
+        //     'nama' => "Raig"
+        // ]);
 
-        UMKM::create([
-            'nama' => "Risfina"
-        ]);
+        // UMKM::create([
+        //     'nama' => "Risfina"
+        // ]);
 
-        UMKM::create([
-            'nama' => "Jumroto"
-        ]);
-        UMKM::create([
-            'nama' => "Karelov"
-        ]);
+        // UMKM::create([
+        //     'nama' => "Jumroto"
+        // ]);
+        // UMKM::create([
+        //     'nama' => "Karelov"
+        // ]);
 
-        UMKM::create([
-            'nama' => "Galuh"
-        ]);
+        // UMKM::create([
+        //     'nama' => "Galuh"
+        // ]);
 
     }
 }
