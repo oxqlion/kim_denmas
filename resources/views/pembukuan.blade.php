@@ -5,10 +5,13 @@
     <div class="container">
         <div class="row">
             <div class="col m-5">
-                <div class="list-group">
-                    @foreach ($listUmkm as $umkm)
-                        <a href="#"
-                            class="list-group-item list-group-item-action {{ $umkm->nama == 'dummy1' ? 'active' : '' }}">{{ $umkm->nama }}</a>
+
+                <table class="table table-hover-bordered">
+                    @foreach ($allUmkm as $umkm)
+                        <div class="list-group">
+                            <a href="{{ route('pembukuan-main', ['id' => $umkm->id]) }}">{{ $umkm->nama }}</a>
+                        </div>
+
                     @endforeach
 
                 </div>
@@ -23,7 +26,9 @@
                             <td>Harga</td>
                             <td>Total</td>
                         </tr>
-                        @foreach ($pembukuankWithUMKM as $buku)
+
+                        @foreach ($pembukuanUmk as $buku)
+
                             <tr>
                                 <td>{{ $buku->nama }}</td>
                                 <td>{{ $buku->jumlah }}</td>
