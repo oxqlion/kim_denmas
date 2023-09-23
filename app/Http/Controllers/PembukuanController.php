@@ -34,7 +34,7 @@ class PembukuanController extends Controller
     //     return view('pembukuan', ['pembukuanWithUMKM' => $pembukuanWithUMKM, 'active' => 'Pembukuan']);
     // }
 
-    public function getPembukuanWithUMKM($id)
+    public function getPembukuanWithUMKMById($id)
     {
         // Perform the join operation between the Stok and UMKM tables
         $stokWithUMKMAndPembukuan = Pembukuan::join('umkms', 'pembukuans.umkm_id', '=', 'umkms.', $id)
