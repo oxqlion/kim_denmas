@@ -30,6 +30,10 @@ Route::get('/stok', [StokController::class, 'getStokWithUMKM'])->name('stok');
 Route::post('/storeTransaction/{id}', [PembukuanController::class, 'createPembukuan'])->name('store-transaction');
 
 
+Route::get('/admin_login', function () {
+    return view('login');
+})->name('login');
+
 Route::get('umkm', function () {
     return view('umkm', [
         'active' => "UMKM"
