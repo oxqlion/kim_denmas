@@ -16,7 +16,7 @@ class StokController extends Controller
         //     ->select('stocks.*', 'umkms.nama as umkm_name', 'umkms.id as umkm_umkm_id')
         //     ->get();
 
-        $stokWithUMKM = Stock::join('umkms', 'stocks.umkm_id', '=', 'umkms.id')
+        $stokWithUMKM = Stock::join('u_m_k_m_s as umkms', 'stocks.umkm_id', '=', 'umkms.id')
             ->select('stocks.*', 'umkms.nama as umkm_name', 'umkms.id as umkm_id')
             ->get();
 
