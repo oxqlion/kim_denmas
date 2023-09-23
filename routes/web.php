@@ -33,8 +33,8 @@ Route::get('/', function () {
 //         ]
 //     ]);
 // })->name('pembukuan-main');
-Route::get('/pembukuan', [PembukuanController::class, 'getPembukuanWithUMKM'])->name('pembukuan-main');
-
+Route::get('/pembukuan', [PembukuanController::class, 'getPembukuanWithUMKM2'])->name('pembukuan-main');
+Route::get('/pembukuan/{id}', [PembukuanController::class, 'getPembukuanWithUMKM'])->name('pembukuan-admin');
 // Route::get('stok', function() {
 //     return view('stok',[
 //         'active' =>"Stok",
