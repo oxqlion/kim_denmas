@@ -22,7 +22,13 @@ Route::get('/', function () {
 
 Route::get('pembukuan', function() {
     return view('pembukuan',[
-        'active'=> "Pembukuan"
+        'active'=> "Pembukuan",
+        'datas'=>[
+            "dummy1",
+            "dummy2",
+            "dummy3",
+            "dummy4"
+        ]
     ]);
 })->name('pembukuan-main');
 
