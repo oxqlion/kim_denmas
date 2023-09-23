@@ -5,4 +5,10 @@
     display: flex;
 }
 
+.storeBtn {
+    background-color: rgb(178, 178, 255);
+    color: white;
+    text-decoration: none;
+}
+
 
