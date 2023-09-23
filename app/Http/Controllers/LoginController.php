@@ -14,14 +14,7 @@ class LoginController extends Controller
             'password'=> 'required'
         ]);
 
-        if(Auth::attempt($credentials)){
-            $request->session()->regenerate();
-
-            return redirect()->intended('/dashboard');
-
-        }
-
-        return back()->with('loginError','Login Failed');
+        return view('/pembukuan');
 
         
     }
