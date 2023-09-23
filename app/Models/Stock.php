@@ -10,9 +10,9 @@ class Stock extends Model
 {
     use HasFactory;
 
-    protected $fillable = [
-        
-    ];
+    // protected $fillable = [
+
+    // ];
 
     function UMKM() {
         $this->belongsTo(UMKM::class);
