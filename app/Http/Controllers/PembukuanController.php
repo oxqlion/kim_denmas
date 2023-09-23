@@ -73,7 +73,8 @@ class PembukuanController extends Controller
             'category' => $validatedData['category'],
             'nama' => $validatedData['nama'],
             'jumlah' => $validatedData['jumlah'],
-            'harga' => $validatedData['harga']
+            'harga' => $validatedData['harga'],
+            'total' => $validatedData['jumlah'] * $validatedData['harga']
         ]);
         return Redirect::route('pembukuan-main');
     }

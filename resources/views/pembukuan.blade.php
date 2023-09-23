@@ -45,7 +45,7 @@
             </div>
             <div class="col">
                 <h1>Input Transaksi</h1>
-                <form action="{{ route('store-transaction', ['id' => Route::current()->parameter('id')]) }}" method="POST">
+                <form action="{{ route('store-transaction', ['id' => Route::current()->parameter('id') ? Route::current()->parameter('id') : 1]) }}" method="POST">
                     @csrf <!-- Add a CSRF token for security -->
                     <input type="hidden" name="umkm_id" value="{{ Route::current()->parameter('id') }}">
                     <div class="form-group">

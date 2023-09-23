@@ -12,7 +12,12 @@ class Pembukuan extends Model
     use HasFactory;
 
     protected $fillable = [
-        'umkm_id'
+        'umkm_id',
+        'nama',
+        'category',
+        'jumlah',
+        'harga',
+        'total'
     ];
 
     function UMKM() {
