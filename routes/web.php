@@ -19,11 +19,21 @@ Route::get('/', function () {
 });
 
 Route::get('pembukuan', function() {
-    return view('pembukuan');
+    return view('pembukuan',[
+        'active'=> "Pembukuan"
+    ]);
 })->name('pembukuan-main');
 
 Route::get('home', function() {
-    return view('home');
+    return view('home',[
+        'active' =>"Home"
+    ]);
 })->name('home');
+
+Route::get('umkm', function() {
+    return view('umkm',[
+        'active' =>"UMKM"
+    ]);
+})->name('umkm');
 
 
