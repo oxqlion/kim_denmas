@@ -16,13 +16,13 @@
         <div class="card-header">
             <ul class="nav nav-tabs card-header-tabs">
                 <li class="nav-item">
-                    <a class="nav-link {{ ($active == "Home") ? "active" : ""  }}" aria-current="true" href="{{ route('home') }}">Home</a>
+                    <a class="nav-link {{ ($active == "Home") ? "active" : ""  }}" aria-current="true" href="{{ route('home') }}">Stok Produk</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link {{ ($active == "Pembukuan") ? "active" : ""  }} "  aria-current="true"  href="{{ route('pembukuan-main') }}">Pembukuan</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{ ($active == "UMKM") ? "active" : ""  }} "  aria-current="true"  href="{{ route('umkm') }}">UMKM</a>
+                    <a class="nav-link {{ ($active == "UMKM") ? "active" : ""  }} "  aria-current="true"  href="{{ route('umkm') }}">Manajemen Konten</a>
                 </li>
             </ul>
         </div>
