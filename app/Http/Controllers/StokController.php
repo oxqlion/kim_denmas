@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Stock;
+use App\Models\UMKM;
 
 class StokController extends Controller
 {
@@ -20,6 +21,6 @@ class StokController extends Controller
             ->get();
 
         // Return the result as a response, or you can process it further as needed
-        return view('stok', ['stokUmkm' => $stokWithUMKM, 'active' => 'Stok']);
+        return view('stok', ['stokUmkm' => $stokWithUMKM, 'active' => 'Stok', 'listUmkm' => UMKM::all()]);
     }
 }
