@@ -4,6 +4,7 @@ use App\Http\Controllers\StokController;
 use App\Http\Controllers\PembukuanController;
 use Illuminate\Support\Facades\Route;
 use App\Models\Pembukuan;
+use OpenAI\Laravel\Facades\OpenAI;
 
 /*
 |--------------------------------------------------------------------------
@@ -39,6 +40,17 @@ Route::get('umkm', function () {
         'active' => "UMKM"
     ]);
 })->name('umkm');
+
+
+Route::get('/openai', function(){
+
+    $result = OpenAI::completions()->create([
+        'model' => 'text-davinci-003',
+        'prompt' => 'PHP is',
+    ]);
+    
+    echo $result['choices'][0]['text']; // an open-source, widely-used, server-side scripting language.
+});// an open-source, widely-used, server-side scripting language.
 
 Route::get('/katalog',function(){
     return view('katalog',[
