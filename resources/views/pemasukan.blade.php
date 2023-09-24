@@ -1,7 +1,7 @@
 @extends('components.parent')
 
 @section('content')
-    <div class="container p-5">
+    <div class="container p-5 ms-auto">
         <div class="row p-0">
             <div class="col-md-3">
                 <div class="list-group">
@@ -16,6 +16,7 @@
                     <table class="table table-bordered">
                         <thead>
                             <tr>
+                                <th>Tanggal</th>
                                 <th>Nama</th>
                                 <th>Kuantitas</th>
                                 <th>Harga</th>
@@ -25,6 +26,7 @@
                         <tbody>
                             @foreach ($pembukuanUmk as $buku)
                                 <tr>
+                                    <td>{{ $buku->created_at }}</td>
                                     <td>{{ $buku->nama }}</td>
                                     <td>{{ $buku->jumlah }}</td>
                                     <td>{{ $buku->harga }}</td>
@@ -41,6 +43,38 @@
                         href="{{ route('get-pengeluaran', ['id' => Route::current()->parameter('id') ? Route::current()->parameter('id') : 1]) }}">Pengeluaran</a>
                 </div>
             </div>
+            <div class="col">
+                <h1>Input Transaksi</h1>
+                <form action="{{ route('store-transaction', ['id' => Route::current()->parameter('id')]) }}" method="POST">
+                    @csrf <!-- Add a CSRF token for security -->
+                    <input type="hidden" name="umkm_id" value="{{ Route::current()->parameter('id') }}">
+                    <div class="form-group">
+                        <label for="transaction_type">Input Transaksi</label>
+                        <select class="form-control" id="transaction_type" name="category">
+                            <option value="Pemasukan" selected>Pemasukan</option>
+                            <option value="Pengeluaran">Pengeluaran</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="nama">Nama</label>
+                        <input type="text" class="form-control" id="nama" name="nama"
+                            placeholder="Masukkan nama produk" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="jumlah">Jumlah</label>
+                        <input type="number" class="form-control" id="jumlah" name="jumlah"
+                            placeholder="Masukkan jumlah produk" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="harga">Harga</label>
+                        <input type="number" class="form-control" id="harga" name="harga"
+                            placeholder="Masukkan harga produk" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+
+
         </div>
     </div>
 @endsection

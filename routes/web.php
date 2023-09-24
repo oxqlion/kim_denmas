@@ -28,11 +28,8 @@ Route::get('/pengeluaran/{id}', [PembukuanController::class, 'getPengeluaran'])-
 
 Route::get('/stok', [StokController::class, 'getStokWithUMKM'])->name('stok');
 
-Route::get('/katalog',function(){
-    return view('katalog',[
-        'active'=>"Katalog"
-    ]);
-})->name('katalog');
+Route::post('/storeTransaction/{id}', [PembukuanController::class, 'createPembukuan'])->name('store-transaction');
+
 
 Route::get('/admin_login', function () {
     return view('login');
@@ -54,3 +51,9 @@ Route::get('/openai', function(){
     
     echo $result['choices'][0]['text']; // an open-source, widely-used, server-side scripting language.
 });// an open-source, widely-used, server-side scripting language.
+
+Route::get('/katalog',function(){
+    return view('katalog',[
+        'active'=>"Katalog"
+    ]);
+})->name('katalog');
